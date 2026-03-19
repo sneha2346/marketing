@@ -1,0 +1,1501 @@
+Campaign_ID,Campaign_Name,Channel,Date,Impressions,Clicks,Conversions,Cost/Ad Spend,Revenue Generated,Customer Acquired,Region,Audience Segment
+CMP_001,Twitter - Promo 1,Twitter,2025-01-01,6527,378,19,193.27,1837.63,18,Middle East,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-01-01,20617,293,21,122.4,2683.9,17,North America,Students
+CMP_007,Email - Promo 7,Email,2025-01-01,8071,245,31,1141.55,2907.84,26,Middle East,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-01,9823,276,39,1022.65,511.01,33,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-01-02,11299,492,62,1252.56,12321.14,57,Latin America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-01-03,10052,242,36,149.02,6927.8,32,Middle East,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-01-03,16104,638,39,2525.78,1576.56,33,Asia-Pacific,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-03,20911,307,40,2306.86,3153.2,32,Latin America,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-03,17135,263,45,1122.89,3133.45,40,Latin America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-01-04,9204,283,30,870.1,3299.74,27,Latin America,General
+CMP_012,Twitter - Promo 12,Twitter,2025-01-04,13283,789,96,2924.09,4774.44,88,Europe,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-04,24206,538,19,3511.09,1030.3,15,Latin America,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-01-05,8847,654,32,362.7,2711.03,26,Asia-Pacific,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-01-06,12101,600,56,2430.03,3493.99,49,Middle East,General
+CMP_014,Twitter - Promo 14,Twitter,2025-01-06,10125,458,36,2291.7,3519.63,29,Middle East,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-01-06,8925,332,19,1989.26,1312.0,15,Latin America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-01-07,13306,431,12,2060.54,1555.25,9,Europe,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-07,20846,411,12,2137.86,1192.58,10,North America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-01-07,7247,301,21,2162.31,1749.21,17,North America,Students
+CMP_004,Email - Promo 4,Email,2025-01-08,15068,1114,29,3838.68,7300.24,26,Middle East,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-01-08,7598,221,31,145.37,5732.7,28,Europe,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-01-08,9443,266,35,137.08,5838.27,28,Europe,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-01-08,19485,641,48,2575.12,2787.55,47,Latin America,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-01-08,9020,238,33,785.71,3785.17,31,Asia-Pacific,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-01-09,10537,449,49,901.54,11838.57,44,Latin America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-01-09,11182,316,17,488.72,3242.48,14,Europe,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-09,10172,189,20,1083.06,959.06,18,Asia-Pacific,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-01-10,22554,1308,137,5167.96,16212.14,127,Middle East,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-01-10,17706,672,21,3219.44,2092.31,19,Middle East,Students
+CMP_018,Email - Promo 18,Email,2025-01-10,8126,695,72,4467.61,6166.99,62,Europe,General
+CMP_008,Facebook - Promo 8,Facebook,2025-01-11,14401,201,10,391.73,302.15,9,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-01-11,9595,558,31,2696.92,2791.47,29,North America,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-11,10174,238,31,1157.9,742.79,30,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-11,10882,314,54,1336.8,998.76,49,Latin America,Retirees
+CMP_018,Email - Promo 18,Email,2025-01-11,7276,474,39,3133.77,2103.64,37,Latin America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-01-12,14884,727,100,3020.57,11144.37,95,Middle East,Retirees
+CMP_007,Email - Promo 7,Email,2025-01-12,6566,173,16,799.18,1566.58,12,Middle East,General
+CMP_011,Facebook - Promo 11,Facebook,2025-01-12,11043,301,25,523.54,4590.32,20,Asia-Pacific,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-12,15160,385,73,1932.55,1084.21,63,North America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-01-13,10676,319,40,230.87,8991.53,35,North America,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-01-13,19511,934,110,3200.71,14821.66,98,Asia-Pacific,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-01-13,17094,559,42,2140.86,2378.89,39,Asia-Pacific,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-01-13,20244,1309,151,5288.2,8191.46,126,Asia-Pacific,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-01-13,6950,432,29,2061.64,2675.5,27,Europe,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-13,19839,364,12,1963.46,977.64,10,Asia-Pacific,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-13,20111,354,47,1603.59,3522.57,40,Latin America,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-01-14,15076,180,11,346.09,401.24,9,North America,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-01-14,21305,883,89,3564.55,4645.17,75,Latin America,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-01-14,11262,625,74,2438.2,4031.68,60,Latin America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-14,15092,393,57,1827.74,780.28,47,Asia-Pacific,General
+CMP_005,Instagram - Promo 5,Instagram,2025-01-15,11811,249,21,176.83,4269.26,17,Latin America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-01-15,11860,902,72,7110.91,6403.71,69,North America,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-15,17476,322,45,1694.93,4081.15,44,Asia-Pacific,General
+CMP_020,Instagram - Promo 20,Instagram,2025-01-15,4455,167,11,1312.38,1220.66,10,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-01-16,16689,304,24,116.83,2967.92,21,Europe,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-01-16,18599,1041,125,3644.48,15410.86,105,Europe,General
+CMP_006,Instagram - Promo 6,Instagram,2025-01-16,17680,861,81,3195.01,10137.97,76,Latin America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-16,10425,289,55,1342.18,1196.83,52,Europe,General
+CMP_001,Twitter - Promo 1,Twitter,2025-01-17,4942,276,12,254.77,1087.63,9,Asia-Pacific,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-01-17,14543,616,63,2522.57,6477.23,55,Middle East,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-01-17,12642,608,40,2983.95,4267.79,38,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-17,11328,250,29,1373.54,562.31,27,Asia-Pacific,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-17,23277,530,24,3274.71,1548.55,21,Asia-Pacific,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-17,19162,385,16,1881.06,802.6,13,North America,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-01-18,18109,336,28,153.79,3424.77,22,Latin America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-01-18,3857,104,16,56.08,4016.84,15,Latin America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-01-18,6910,169,23,627.24,3476.26,22,North America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-19,22497,530,15,2517.66,602.15,13,Latin America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-19,11107,206,19,1106.77,1879.31,17,Europe,Professionals
+CMP_004,Email - Promo 4,Email,2025-01-20,10441,604,14,1464.22,4320.79,13,Latin America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-20,12332,279,34,1021.77,549.2,27,North America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-01-21,12484,734,12,1998.87,3537.16,11,Europe,General
+CMP_010,Instagram - Promo 10,Instagram,2025-01-21,7232,242,29,874.76,3382.21,26,Europe,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-21,9841,298,46,1221.1,653.7,37,Latin America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-01-21,4371,171,14,1145.02,1286.1,13,Middle East,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-01-21,5645,214,12,1465.73,862.9,11,Europe,General
+CMP_008,Facebook - Promo 8,Facebook,2025-01-22,20945,222,8,393.57,307.83,6,North America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-01-22,10800,259,22,446.18,4712.35,21,Latin America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-01-22,16583,672,16,3182.56,2267.77,13,Latin America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-01-22,7165,343,29,3311.24,1513.4,26,Middle East,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-01-23,10083,511,60,1375.53,13073.09,57,Latin America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-01-23,14893,595,21,2919.76,3002.45,20,Asia-Pacific,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-01-23,7554,462,34,2158.42,2061.09,27,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-01-23,6464,470,34,3409.52,1839.14,30,North America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-01-24,15383,268,23,132.96,2998.29,19,North America,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-01-24,11593,134,6,255.49,169.33,5,Middle East,General
+CMP_009,Facebook - Promo 9,Facebook,2025-01-24,20467,868,71,3347.13,3239.09,69,North America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-01-25,15552,911,148,3646.8,7913.7,141,Asia-Pacific,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-01-26,20230,1027,109,3566.58,14972.93,95,Latin America,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-01-26,14763,625,14,2720.15,1508.78,11,Europe,General
+CMP_001,Twitter - Promo 1,Twitter,2025-01-27,6182,312,13,198.82,1234.14,10,Europe,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-01-27,9506,207,19,132.32,4291.39,16,North America,Retirees
+CMP_007,Email - Promo 7,Email,2025-01-27,6818,222,23,1069.96,2162.04,19,Asia-Pacific,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-01-27,14610,229,12,407.29,410.03,10,Asia-Pacific,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-01-27,10151,125,5,245.13,154.73,4,Middle East,General
+CMP_009,Facebook - Promo 9,Facebook,2025-01-27,16483,609,55,2578.07,2724.63,52,Europe,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-01-27,11062,472,11,2316.5,1528.08,10,Middle East,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-01-28,13031,878,140,3765.82,7865.51,114,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-01-28,6832,348,25,2559.63,830.01,20,Europe,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-01-28,9876,294,32,1273.32,604.17,28,Middle East,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-28,21082,374,17,1917.59,1485.07,14,Europe,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-01-29,20049,997,95,2195.39,25580.76,79,Latin America,General
+CMP_011,Facebook - Promo 11,Facebook,2025-01-29,14715,461,28,769.26,4943.07,25,Middle East,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-01-29,13657,685,70,2884.0,4584.52,68,Latin America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-01-29,6563,231,20,1624.79,1950.95,19,Europe,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-01-30,16854,236,12,444.15,494.4,11,Middle East,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-01-30,13641,366,36,631.51,6737.57,29,North America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-30,16641,290,48,1726.23,3520.52,46,Middle East,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-01-30,7588,299,19,2482.16,967.44,18,Europe,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-01-31,14774,217,18,95.85,2308.24,15,Latin America,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-01-31,17187,286,11,1471.6,965.99,9,Middle East,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-01-31,23115,389,56,2388.11,4330.17,49,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-01,12786,590,76,1578.87,14102.56,73,North America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-02-01,8647,222,36,754.94,5379.64,29,Europe,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-01,14749,669,15,2905.57,2020.84,12,Asia-Pacific,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-02-02,14839,202,8,343.68,289.32,6,Asia-Pacific,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-02,10284,275,50,965.34,882.47,47,Asia-Pacific,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-02,18850,367,16,2290.29,934.28,15,Europe,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-03,15012,643,19,3132.18,2586.37,16,Asia-Pacific,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-02-03,10926,625,39,2816.27,4404.4,31,North America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-02-03,11315,597,38,2630.47,3470.9,37,Asia-Pacific,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-02-04,22782,293,21,122.3,2602.0,19,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-04,15540,904,97,1978.9,20097.32,85,Asia-Pacific,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-02-04,20485,224,9,417.35,263.78,7,North America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-02-04,12386,595,80,2543.02,4898.38,78,Europe,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-02-04,9084,594,63,2873.12,2460.48,54,Latin America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-04,8331,196,37,848.3,724.38,34,Europe,General
+CMP_006,Instagram - Promo 6,Instagram,2025-02-05,10934,611,64,2136.14,6700.32,62,Middle East,Young Adults
+CMP_007,Email - Promo 7,Email,2025-02-05,8468,225,29,1007.33,2406.59,23,Latin America,Students
+CMP_007,Email - Promo 7,Email,2025-02-05,7518,244,27,1199.69,2142.37,24,Asia-Pacific,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-02-05,14219,663,81,2641.51,4686.13,71,Middle East,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-02-05,15381,935,134,4043.64,9632.34,110,Europe,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-05,14399,384,45,1963.0,1073.33,36,Europe,Young Adults
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-05,21604,414,21,2356.86,1664.97,17,North America,Students
+CMP_004,Email - Promo 4,Email,2025-02-06,13916,938,22,2243.11,7773.94,18,Middle East,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-06,14678,644,18,3096.38,2627.71,16,Latin America,Students
+CMP_018,Email - Promo 18,Email,2025-02-06,11779,1093,91,6823.71,6723.27,80,Middle East,Professionals
+CMP_004,Email - Promo 4,Email,2025-02-07,11035,737,11,1862.27,2876.11,8,Middle East,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-02-07,13667,818,95,3149.6,6357.33,94,Asia-Pacific,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-08,14585,636,79,1719.38,15304.25,69,Latin America,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-02-08,20157,944,151,3250.68,18603.33,127,Latin America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-02-08,13204,354,25,654.9,5498.45,21,Middle East,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-08,17850,390,15,2890.49,979.49,12,North America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-02-09,12485,404,25,746.15,5054.13,20,Europe,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-09,11294,430,8,1903.41,931.44,6,Europe,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-02-09,7373,416,33,2858.3,1652.1,27,Asia-Pacific,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-02-10,10777,680,110,2660.62,6159.89,102,Middle East,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-02-10,8017,465,75,1913.2,4498.41,69,Asia-Pacific,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-10,17355,650,15,3114.1,2071.71,12,Asia-Pacific,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-02-10,12755,791,73,3611.9,6461.71,63,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-02-10,6365,361,35,2208.01,1660.45,29,Latin America,General
+CMP_018,Email - Promo 18,Email,2025-02-11,13275,1142,93,9063.48,6554.23,77,North America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-02-12,26104,781,65,3447.36,3376.4,57,Europe,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-02-12,9099,499,56,1918.44,2783.59,52,Europe,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-12,15148,480,15,2057.53,2121.9,13,North America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-02-13,10701,561,36,2736.49,3469.25,32,North America,Professionals
+CMP_018,Email - Promo 18,Email,2025-02-13,11634,820,68,4880.46,5203.32,58,Asia-Pacific,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-13,15104,230,24,1449.04,1894.8,19,North America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-14,12084,293,15,1994.6,903.02,13,Latin America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-14,19893,414,50,2707.35,5164.63,45,North America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-02-14,5903,275,16,2374.99,1387.53,15,Asia-Pacific,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-02-15,17561,286,24,108.99,2996.26,23,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-15,11295,454,11,1956.48,1379.5,9,North America,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-02-15,7835,333,28,2788.6,2687.07,26,Europe,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-02-16,22676,421,39,180.81,3785.53,31,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-02-16,19416,349,25,121.91,3082.17,20,Asia-Pacific,Professionals
+CMP_004,Email - Promo 4,Email,2025-02-16,12474,940,21,2023.29,5308.72,20,Europe,Students
+CMP_007,Email - Promo 7,Email,2025-02-16,7212,218,22,1064.62,1782.24,17,Middle East,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-02-17,6051,360,18,268.86,1079.54,17,Europe,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-17,14520,785,81,1863.0,20066.9,65,Latin America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-02-17,14639,1056,28,2506.94,8990.34,27,Latin America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-02-17,15655,670,62,2754.18,6626.57,55,Middle East,General
+CMP_009,Facebook - Promo 9,Facebook,2025-02-17,17088,521,45,2282.07,2328.91,36,Asia-Pacific,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-17,16112,315,11,1450.75,816.8,9,Latin America,General
+CMP_010,Instagram - Promo 10,Instagram,2025-02-18,7903,239,34,764.64,4871.33,32,Latin America,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-02-18,5897,341,26,1425.37,2207.67,23,North America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-02-18,7058,354,33,2953.9,1117.75,26,Middle East,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-18,13335,365,66,2015.74,1024.13,60,Middle East,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-18,13298,306,52,1268.66,953.41,47,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-18,25646,557,17,2798.11,1710.69,15,Latin America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-18,16058,305,38,1726.92,2257.5,30,Middle East,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-18,14428,236,33,1712.35,1622.35,29,Middle East,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-02-19,20094,216,10,413.86,361.05,8,Europe,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-02-19,15489,240,11,455.02,424.64,10,North America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-02-19,8470,287,50,1032.19,6345.21,44,Europe,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-02-19,12993,709,44,3556.98,4457.01,41,Europe,General
+CMP_018,Email - Promo 18,Email,2025-02-19,10390,764,63,5546.09,7187.63,59,Latin America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-02-19,6827,320,26,2849.28,1715.15,23,Europe,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-02-20,7346,432,17,394.65,1437.07,14,Latin America,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-02-20,19174,671,61,2996.28,3112.62,57,Asia-Pacific,General
+CMP_011,Facebook - Promo 11,Facebook,2025-02-20,12173,282,19,515.46,3032.67,17,Asia-Pacific,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-02-20,12593,609,38,2546.01,3206.35,32,North America,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-02-20,10505,638,37,2916.14,3551.39,31,North America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-20,14276,274,33,1749.48,2422.11,30,Middle East,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-02-20,5382,181,10,1541.58,1073.86,8,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-21,15137,756,99,1553.27,17913.23,86,Asia-Pacific,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-02-21,12202,323,45,1034.17,5284.82,39,North America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-02-21,13655,502,14,2371.93,1654.53,11,Latin America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-21,9424,238,42,935.23,966.18,34,Europe,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-21,19520,327,15,2024.3,567.45,14,Middle East,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-21,11512,238,39,1176.75,3108.24,36,Asia-Pacific,General
+CMP_008,Facebook - Promo 8,Facebook,2025-02-22,10078,149,8,272.08,278.5,6,Asia-Pacific,General
+CMP_015,Instagram - Promo 15,Instagram,2025-02-22,5947,423,43,2364.63,2881.42,36,Middle East,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-02-22,12694,274,47,1983.4,3189.53,42,North America,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-23,11264,478,59,1294.9,10126.35,50,Asia-Pacific,General
+CMP_008,Facebook - Promo 8,Facebook,2025-02-23,19220,279,13,459.02,377.83,11,Europe,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-23,20888,383,13,2209.33,935.68,10,Latin America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-02-23,7392,269,24,1997.25,2252.05,22,Europe,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-02-24,9777,416,59,1056.5,9911.59,56,Latin America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-02-24,11684,866,22,2896.25,6047.93,17,Middle East,General
+CMP_006,Instagram - Promo 6,Instagram,2025-02-24,15993,718,73,2731.14,7714.38,70,North America,General
+CMP_007,Email - Promo 7,Email,2025-02-24,5113,126,16,578.27,1422.7,14,Europe,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-02-24,11443,780,97,3276.51,4958.73,79,North America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-02-25,20480,284,18,146.82,2411.29,16,Latin America,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-02-25,12643,581,65,2118.05,7532.35,64,Latin America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-02-25,13102,414,29,1737.69,1640.85,25,Latin America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-02-25,18863,626,57,2889.42,2477.27,53,Middle East,General
+CMP_012,Twitter - Promo 12,Twitter,2025-02-25,12479,585,93,2364.0,5059.62,91,Europe,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-02-25,15963,318,12,2146.47,769.23,11,Middle East,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-02-25,6486,287,20,1948.6,2207.1,17,North America,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-02-26,18547,889,121,3078.35,16892.05,107,Europe,Students
+CMP_007,Email - Promo 7,Email,2025-02-26,7104,176,16,827.78,1176.51,15,Europe,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-02-26,8848,596,41,4402.53,2748.38,36,North America,General
+CMP_010,Instagram - Promo 10,Instagram,2025-02-27,8446,260,42,822.53,6120.29,36,North America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-02-27,7764,372,27,1805.68,3240.84,26,Latin America,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-02-28,7202,496,31,364.76,2604.21,27,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-02-28,9223,650,50,4811.45,1865.37,43,North America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-28,9937,251,39,922.13,1083.83,32,North America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-02-28,11272,232,27,1082.57,284.78,25,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-01,8027,239,32,1023.5,401.37,25,Latin America,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-03-01,15764,285,8,1956.57,657.36,7,Latin America,General
+CMP_002,Twitter - Promo 2,Twitter,2025-03-02,24991,399,31,142.45,4941.02,25,Asia-Pacific,Students
+CMP_004,Email - Promo 4,Email,2025-03-02,10154,698,16,2040.64,4632.17,15,Europe,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-03-02,14990,206,12,350.89,404.19,10,Middle East,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-03-02,18012,423,18,1828.48,1031.51,16,Middle East,Retirees
+CMP_018,Email - Promo 18,Email,2025-03-02,11222,967,71,6300.19,5662.34,66,Asia-Pacific,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-03,17191,813,96,2168.08,20154.22,94,Europe,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-03-03,12385,347,47,191.01,8874.45,46,Asia-Pacific,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-03-03,15586,880,87,3631.42,11284.83,78,North America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-03-03,7656,382,30,2922.99,968.04,29,Middle East,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-04,13984,613,72,1667.24,13828.22,64,Latin America,General
+CMP_005,Instagram - Promo 5,Instagram,2025-03-04,7374,219,30,104.48,5249.26,29,Europe,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-04,14430,409,68,2058.65,928.59,54,North America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-03-04,7537,312,28,1909.89,2680.9,23,Latin America,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-03-04,5864,239,17,1762.46,1352.62,15,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-03-05,5303,322,21,211.39,2271.63,20,Europe,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-03-05,15282,476,42,1931.53,1716.9,34,Latin America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-05,14898,531,15,2436.62,1538.96,14,Asia-Pacific,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-05,12647,364,45,1296.67,552.2,37,North America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-05,19990,332,42,1896.09,2635.84,33,North America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-03-06,14106,596,38,2322.85,1995.02,33,Middle East,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-06,10696,224,43,962.22,822.89,35,North America,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-03-06,18695,451,20,2210.47,1463.7,16,Latin America,Students
+CMP_018,Email - Promo 18,Email,2025-03-06,13990,1314,93,11609.03,12955.45,85,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2025-03-07,11376,719,19,1861.9,5273.98,16,North America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-03-07,20006,693,58,3075.2,3142.46,51,Asia-Pacific,General
+CMP_015,Instagram - Promo 15,Instagram,2025-03-07,6111,322,36,1807.17,2006.86,35,North America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-03-07,13820,315,16,1541.17,892.5,15,Europe,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-08,9966,517,55,1264.27,8305.07,48,Middle East,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-03-08,13482,779,114,3108.36,8051.27,109,Middle East,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-08,17416,612,16,2985.32,2086.41,15,Middle East,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-03-08,9770,534,35,2477.6,3617.98,32,Latin America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-08,17047,344,40,1801.4,3490.74,37,Europe,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-03-09,22034,325,20,537.18,699.02,16,North America,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-03-09,14683,510,31,2271.85,1679.11,30,Asia-Pacific,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-03-09,13489,373,29,609.76,6316.86,28,Asia-Pacific,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-09,15155,534,17,2250.85,2489.4,15,Asia-Pacific,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-09,14933,302,46,2286.58,3149.31,41,Middle East,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-09,12781,193,23,1012.88,2443.71,21,North America,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-03-09,6764,235,15,1444.4,1820.74,13,Middle East,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-10,14109,679,69,1616.08,14498.52,61,North America,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-03-10,17511,256,11,482.49,315.89,10,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-10,7023,165,23,860.99,363.93,19,North America,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-03-11,18633,793,81,3175.25,8742.03,79,North America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-11,13008,390,58,1731.16,1296.03,54,Europe,Retirees
+CMP_018,Email - Promo 18,Email,2025-03-11,7585,573,64,5534.31,6843.94,58,Latin America,Retirees
+CMP_018,Email - Promo 18,Email,2025-03-11,11798,874,55,5364.4,7277.91,53,Latin America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-03-12,6560,190,19,98.07,3795.88,16,Asia-Pacific,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-03-12,11499,343,41,1205.36,4456.68,38,North America,Retirees
+CMP_018,Email - Promo 18,Email,2025-03-12,13188,1020,83,5877.51,6775.81,67,North America,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-12,13136,227,33,1262.66,2856.85,27,Middle East,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-03-12,5446,232,22,1605.0,2849.52,18,Asia-Pacific,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-03-13,16622,274,24,147.6,2815.86,21,Europe,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-03-13,12528,669,99,2670.54,5709.24,92,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-13,12268,480,13,2044.52,1638.26,12,Europe,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-13,14233,460,13,2311.46,1427.55,12,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-03-13,9995,630,52,3086.27,4785.28,51,Europe,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-13,18025,270,34,1162.35,1501.85,30,Europe,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-03-13,5967,259,18,1675.81,1906.52,15,Asia-Pacific,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-03-14,22896,377,21,164.88,2537.98,19,Europe,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-03-14,22601,1186,165,4218.64,17606.76,147,Europe,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-03-14,16853,203,9,374.3,354.45,7,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-03-14,19904,654,38,2844.8,1830.34,32,Asia-Pacific,General
+CMP_011,Facebook - Promo 11,Facebook,2025-03-14,13493,330,33,611.09,5515.59,26,Latin America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-03-14,17565,421,25,742.42,5409.04,20,Europe,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-03-14,10509,532,64,2063.57,4578.73,62,Europe,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-03-14,10194,461,31,1977.67,2831.68,28,North America,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-03-15,7615,540,32,386.89,2318.16,28,Asia-Pacific,General
+CMP_009,Facebook - Promo 9,Facebook,2025-03-15,16190,662,36,2980.07,1999.83,32,Middle East,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-15,21030,858,23,3872.2,3022.12,22,Middle East,General
+CMP_014,Twitter - Promo 14,Twitter,2025-03-15,7973,412,20,1943.25,1935.61,18,Middle East,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-16,8780,491,63,970.43,14781.87,55,Middle East,Professionals
+CMP_004,Email - Promo 4,Email,2025-03-16,11382,625,13,1809.72,3771.8,11,Middle East,Students
+CMP_007,Email - Promo 7,Email,2025-03-16,5823,159,11,729.04,904.03,10,North America,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-03-16,18291,630,38,2618.2,2049.53,36,Asia-Pacific,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-16,15128,330,63,1782.9,1014.54,56,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-03-16,23676,492,25,2644.8,2229.86,21,North America,Retirees
+CMP_018,Email - Promo 18,Email,2025-03-16,12487,1163,103,9334.67,10106.23,100,Latin America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-03-17,7467,262,26,2735.34,1843.76,25,North America,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-18,16607,965,122,2116.56,29375.95,110,North America,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-18,18447,577,17,2476.98,2367.7,16,Middle East,General
+CMP_014,Twitter - Promo 14,Twitter,2025-03-18,11416,718,46,3051.39,5024.6,45,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-03-18,12505,1166,74,6518.61,8537.96,68,Middle East,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-03-19,16650,250,24,94.74,2935.42,23,Europe,Professionals
+CMP_007,Email - Promo 7,Email,2025-03-19,3024,91,11,377.94,867.23,10,Latin America,Students
+CMP_007,Email - Promo 7,Email,2025-03-19,4980,177,20,759.06,1709.29,18,Middle East,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-03-19,8643,444,26,1880.41,2745.03,22,Europe,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-03-19,11275,337,35,1421.64,730.68,32,Europe,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-19,12138,245,28,1457.33,3201.25,25,Latin America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-03-20,6655,475,54,2566.62,2605.85,52,North America,Students
+CMP_004,Email - Promo 4,Email,2025-03-21,13262,866,16,2110.14,5465.8,13,North America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-03-21,6324,180,16,109.48,2979.32,15,North America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-03-21,17422,1105,121,4517.91,8393.86,100,North America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-21,23500,977,26,4186.39,3169.27,23,Latin America,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-21,11456,385,12,1720.18,1638.74,11,Middle East,General
+CMP_020,Instagram - Promo 20,Instagram,2025-03-21,5965,216,17,1339.9,2166.2,14,Asia-Pacific,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-22,10673,536,48,1128.14,8256.54,45,Europe,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-03-22,13684,366,37,263.51,6360.95,33,Middle East,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-03-22,13877,888,114,3807.57,6599.62,94,Asia-Pacific,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-22,15573,601,16,2531.16,2239.23,15,North America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-03-22,6351,242,14,1428.86,1007.41,12,North America,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-03-23,20292,380,28,166.94,4071.5,24,North America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-03-23,18455,387,11,1789.51,580.59,9,Latin America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-23,18233,311,45,2274.19,2786.36,42,North America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-03-24,7718,157,16,71.18,2710.84,13,Europe,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-03-24,10248,415,33,1702.32,1527.65,29,Europe,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-03-24,19853,889,32,3964.7,4521.48,31,North America,General
+CMP_018,Email - Promo 18,Email,2025-03-24,7474,513,39,3577.69,3031.51,34,North America,General
+CMP_006,Instagram - Promo 6,Instagram,2025-03-25,14210,841,102,2916.55,9990.2,95,Latin America,General
+CMP_008,Facebook - Promo 8,Facebook,2025-03-25,13844,162,6,299.28,230.91,5,Latin America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-03-25,9060,227,22,823.43,2938.82,19,Latin America,General
+CMP_011,Facebook - Promo 11,Facebook,2025-03-25,12811,380,26,630.29,4913.58,25,Latin America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-03-25,8309,395,31,1687.97,3642.53,29,Europe,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-26,14441,593,58,1655.3,10977.88,55,Middle East,Young Adults
+CMP_004,Email - Promo 4,Email,2025-03-26,14689,1073,28,2269.11,8839.03,24,Europe,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-03-26,9485,232,30,120.06,6493.24,26,Asia-Pacific,General
+CMP_005,Instagram - Promo 5,Instagram,2025-03-26,8622,173,19,85.92,4036.08,15,Middle East,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-03-26,7415,250,35,860.1,5382.58,33,Europe,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-27,16985,921,113,2065.02,21546.44,101,Middle East,Retirees
+CMP_004,Email - Promo 4,Email,2025-03-27,12242,655,10,1484.5,3500.42,9,Middle East,General
+CMP_007,Email - Promo 7,Email,2025-03-27,8153,282,29,1262.13,2650.71,27,Asia-Pacific,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-03-27,18248,734,70,3267.51,4001.21,57,Asia-Pacific,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-03-27,11590,339,23,638.99,3901.21,19,North America,Professionals
+CMP_007,Email - Promo 7,Email,2025-03-28,6201,226,17,1074.99,1252.65,14,North America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-03-28,10651,515,31,2415.94,3550.66,25,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-03-28,11697,967,64,8351.45,7185.86,61,Europe,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-03-29,13539,653,80,1562.1,15258.26,71,North America,General
+CMP_007,Email - Promo 7,Email,2025-03-29,8662,222,23,1018.55,2216.93,20,Latin America,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-03-29,15295,372,38,598.68,8021.4,35,Middle East,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-03-29,14347,268,46,1583.44,5001.21,43,Asia-Pacific,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-03-29,8482,391,23,3753.23,2627.43,20,Middle East,General
+CMP_006,Instagram - Promo 6,Instagram,2025-03-30,10188,506,60,1936.27,7226.13,49,Middle East,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-03-30,8508,261,33,905.56,3764.01,30,Middle East,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-03-30,6971,313,30,2002.37,2527.92,25,Latin America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-03-31,19543,642,41,2553.84,1698.09,34,Asia-Pacific,General
+CMP_009,Facebook - Promo 9,Facebook,2025-04-01,17760,659,66,2959.01,2740.34,63,Asia-Pacific,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-04-01,5409,304,23,1607.73,1726.84,21,North America,General
+CMP_002,Twitter - Promo 2,Twitter,2025-04-02,13831,265,25,91.85,3239.52,22,Europe,General
+CMP_005,Instagram - Promo 5,Instagram,2025-04-02,10545,244,33,201.62,6179.89,28,North America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-04-02,19349,577,48,2378.52,2305.15,45,Middle East,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-04-02,13388,409,39,1622.41,1756.5,37,Europe,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-04-02,19494,1306,172,5153.13,11099.14,139,Europe,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-04-02,5786,307,31,2133.99,930.56,30,Latin America,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-04-02,13126,340,43,1719.82,1005.68,37,Asia-Pacific,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-02,16195,292,49,1600.11,3683.56,40,Asia-Pacific,Professionals
+CMP_004,Email - Promo 4,Email,2025-04-03,17586,1337,35,3153.56,10417.09,31,Middle East,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-03,21068,818,28,3696.85,3089.12,25,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-04-03,11246,886,90,8655.83,12450.86,82,Asia-Pacific,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-04,13118,599,72,1263.28,12424.15,60,North America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-04,12208,590,77,1329.39,17688.89,76,Middle East,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-04,21827,396,19,2239.0,1168.25,15,Latin America,General
+CMP_002,Twitter - Promo 2,Twitter,2025-04-05,15946,272,14,143.33,1895.04,13,Europe,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-05,14322,687,88,1280.7,16829.56,80,Europe,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-05,11001,453,9,2141.09,1182.67,7,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-04-05,5039,321,36,2151.25,2113.24,30,Europe,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-04-06,16527,701,93,2491.87,10354.61,85,Latin America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-06,8417,154,8,972.88,614.16,7,Middle East,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-06,13431,257,35,1679.57,3704.67,31,Europe,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-04-07,18250,307,22,112.83,2240.04,17,Middle East,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-07,20893,856,119,2125.28,19114.63,117,Latin America,Young Adults
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-07,21692,520,16,2811.89,1011.55,13,Latin America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-04-07,3738,125,8,1154.42,609.77,7,North America,Professionals
+CMP_007,Email - Promo 7,Email,2025-04-08,7122,206,19,887.22,1823.13,16,Middle East,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-08,22693,956,21,4215.19,2381.41,18,Middle East,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-08,21610,486,19,3339.61,1271.07,17,North America,Professionals
+CMP_018,Email - Promo 18,Email,2025-04-08,9944,878,61,6549.98,7377.86,50,North America,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-04-09,6469,451,28,298.18,2353.38,24,Asia-Pacific,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-04-09,16617,790,103,3144.76,14308.44,94,Europe,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-04-09,20273,776,67,3553.62,3205.35,53,North America,General
+CMP_012,Twitter - Promo 12,Twitter,2025-04-09,11679,601,55,2294.17,3176.06,54,Latin America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-09,19031,637,22,3063.66,2259.38,21,Asia-Pacific,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-09,19863,389,19,1858.49,1213.28,18,Europe,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-04-10,21632,738,64,3390.0,2736.48,62,Middle East,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-04-10,12032,364,53,1802.05,1337.62,46,Asia-Pacific,General
+CMP_009,Facebook - Promo 9,Facebook,2025-04-11,16157,600,45,2639.66,2227.95,36,North America,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-04-11,11669,291,27,517.31,5451.76,23,Asia-Pacific,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-11,15435,279,44,1432.78,4486.93,41,Europe,Professionals
+CMP_004,Email - Promo 4,Email,2025-04-12,13521,1064,20,2533.92,4923.38,16,Middle East,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-04-12,8025,201,18,145.24,3256.42,15,Latin America,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-04-12,9633,232,30,770.19,4199.33,25,Latin America,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-04-12,5418,232,18,2217.19,1499.44,15,Middle East,General
+CMP_005,Instagram - Promo 5,Instagram,2025-04-13,11972,274,32,202.15,6276.2,27,Europe,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-04-13,18056,1085,124,4106.89,12509.86,105,Europe,General
+CMP_008,Facebook - Promo 8,Facebook,2025-04-13,14181,181,11,315.58,403.53,9,North America,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-04-13,12312,283,27,507.14,5467.58,23,Middle East,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-04-13,9209,544,62,3736.99,2748.48,52,North America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-04-13,14355,436,64,2031.85,985.82,54,Europe,General
+CMP_018,Email - Promo 18,Email,2025-04-13,9929,788,77,6644.25,6707.23,73,Europe,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-13,9046,142,22,916.68,1574.18,20,Middle East,General
+CMP_002,Twitter - Promo 2,Twitter,2025-04-14,17122,235,15,124.73,1857.33,13,Europe,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-14,11164,607,84,1564.28,15677.54,72,Europe,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-04-14,21964,1071,119,3858.2,12675.65,98,Middle East,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-04-14,9703,518,49,2118.82,3485.66,42,Europe,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-04-14,8129,410,36,2049.09,3528.04,29,Europe,General
+CMP_001,Twitter - Promo 1,Twitter,2025-04-15,7072,484,29,281.73,2340.73,23,Asia-Pacific,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-04-15,25301,1431,156,4876.51,21142.24,130,Asia-Pacific,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-15,11062,339,7,1584.75,1016.72,6,Middle East,General
+CMP_001,Twitter - Promo 1,Twitter,2025-04-16,6735,410,23,316.6,1634.76,19,Middle East,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-04-16,11821,334,43,213.61,6821.1,39,Asia-Pacific,Retirees
+CMP_007,Email - Promo 7,Email,2025-04-16,5594,176,21,795.1,1570.45,18,Asia-Pacific,Young Adults
+CMP_007,Email - Promo 7,Email,2025-04-16,7748,222,19,1003.29,1748.76,16,North America,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-16,16836,724,14,3009.9,1746.69,12,Latin America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-04-16,6345,224,16,1456.97,2272.87,15,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-04-17,7085,433,24,350.54,2534.31,22,Latin America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-04-17,8787,199,21,999.56,391.29,17,Latin America,Students
+CMP_018,Email - Promo 18,Email,2025-04-17,10221,916,68,9351.0,5075.83,65,Middle East,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-04-17,8781,417,25,2737.35,1779.6,21,Middle East,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-04-17,9881,386,26,3115.47,2405.98,23,Europe,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-18,16710,692,57,1985.36,9169.47,51,Europe,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-04-18,8692,211,29,104.41,5353.63,23,Europe,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-04-18,8969,303,34,934.94,3891.43,29,Middle East,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-04-18,11693,316,40,1319.23,954.08,38,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-04-19,15290,481,16,2283.47,1615.39,13,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-04-19,7986,547,60,3608.84,2135.92,54,Latin America,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-19,15347,250,41,1869.98,2549.96,38,North America,General
+CMP_010,Instagram - Promo 10,Instagram,2025-04-20,10081,285,41,964.32,6284.35,40,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-21,14962,882,121,2247.44,28329.69,116,Latin America,General
+CMP_012,Twitter - Promo 12,Twitter,2025-04-21,13492,635,93,2474.63,4734.09,92,Latin America,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-21,18132,368,11,2405.26,887.56,9,Latin America,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-21,14142,277,40,2128.46,4458.95,38,North America,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-04-22,5639,331,18,193.66,1472.14,16,Middle East,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-04-22,22924,1145,112,4191.48,12487.79,90,North America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-04-22,11943,777,62,3301.68,6542.31,50,Middle East,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-04-22,7279,387,26,2185.67,1512.57,22,North America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-04-22,18987,1737,138,11945.0,19424.06,110,Latin America,Professionals
+CMP_018,Email - Promo 18,Email,2025-04-22,7465,651,63,5688.55,3629.56,61,Latin America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-04-23,16323,247,22,118.76,3201.64,18,Middle East,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-23,14660,845,95,2246.38,23485.77,84,Latin America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-04-23,10126,557,41,2785.46,3589.41,33,Europe,General
+CMP_018,Email - Promo 18,Email,2025-04-23,13254,1182,126,10887.33,13267.35,116,Europe,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-04-23,6518,239,18,2096.85,2110.51,16,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-24,14717,796,79,2324.88,13685.59,68,Asia-Pacific,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-04-24,10245,473,42,2395.15,4291.59,40,Europe,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-04-24,14855,256,40,1297.25,1840.71,36,Latin America,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-04-25,16086,950,115,2688.44,22507.06,104,Middle East,General
+CMP_008,Facebook - Promo 8,Facebook,2025-04-25,13660,165,6,287.87,180.46,5,Asia-Pacific,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-04-25,10827,312,42,1815.61,1094.25,38,North America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-04-25,8286,320,22,2066.63,2609.82,19,Asia-Pacific,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-04-26,12281,601,53,2701.15,6502.24,51,Europe,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-04-26,14173,913,52,4041.09,4832.41,48,Europe,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-04-26,6243,395,37,2810.5,1223.29,36,Asia-Pacific,General
+CMP_004,Email - Promo 4,Email,2025-04-27,15671,854,21,2605.93,5554.74,18,Middle East,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-04-27,8323,254,33,829.28,4745.98,26,Europe,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-04-27,8338,207,23,649.71,3263.51,19,Middle East,General
+CMP_011,Facebook - Promo 11,Facebook,2025-04-27,12941,370,31,647.35,5287.22,27,Europe,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-04-27,7997,364,23,2783.3,1910.59,22,Asia-Pacific,General
+CMP_004,Email - Promo 4,Email,2025-04-28,15625,875,18,1968.1,6248.55,17,Latin America,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-04-28,7279,185,21,600.47,3013.79,19,Middle East,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-04-28,11501,752,45,3754.93,4923.07,42,Middle East,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-04-29,13564,863,86,3266.67,6066.52,81,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-04-29,16382,299,11,1947.79,966.73,9,Asia-Pacific,General
+CMP_020,Instagram - Promo 20,Instagram,2025-04-29,6738,257,22,1837.72,2381.38,19,Europe,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-04-30,17430,244,18,120.08,2138.3,15,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-04-30,18838,559,54,2589.03,3137.86,44,Europe,Students
+CMP_018,Email - Promo 18,Email,2025-04-30,10763,849,59,7739.21,5795.25,47,Latin America,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-05-01,22650,408,31,137.81,4219.6,29,Latin America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-05-01,10618,240,23,147.58,4161.44,21,North America,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-05-01,15705,584,17,2469.93,1922.86,15,North America,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-05-01,3906,133,8,936.98,733.95,7,Latin America,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-05-02,18665,310,19,164.48,2769.01,18,Europe,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-05-02,6138,144,19,520.84,2079.81,16,Asia-Pacific,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-05-02,16965,245,23,1715.68,1382.24,22,North America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-05-03,9197,303,54,949.32,5794.42,48,North America,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-05-03,17746,704,25,3288.23,2560.77,24,Europe,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-05-03,11947,229,31,1168.76,2781.26,25,Europe,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-05-04,7418,385,14,274.8,1022.66,13,Europe,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-05-04,6755,499,30,314.7,1791.73,29,Asia-Pacific,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-05-04,20061,384,29,193.1,2845.43,27,Asia-Pacific,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-05-04,17450,815,105,2333.53,22994.04,100,Latin America,General
+CMP_005,Instagram - Promo 5,Instagram,2025-05-04,9983,257,26,162.05,3827.99,21,Middle East,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-05-04,12947,726,101,3109.86,6738.32,86,Latin America,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-05-04,10814,586,37,2761.66,3236.84,32,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-05-05,4623,294,12,196.46,873.09,9,North America,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-05,12245,297,37,1157.23,742.61,31,Middle East,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-05,13094,294,42,1318.99,854.91,41,Middle East,Retirees
+CMP_018,Email - Promo 18,Email,2025-05-05,8647,709,52,6010.2,3662.06,44,North America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-05-05,9177,353,32,2518.39,1919.48,27,North America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-05-05,5361,213,12,1895.65,1409.17,9,Middle East,General
+CMP_012,Twitter - Promo 12,Twitter,2025-05-06,16661,1048,171,4149.38,9442.88,148,Latin America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-06,8256,192,27,1025.83,542.4,25,Asia-Pacific,Students
+CMP_004,Email - Promo 4,Email,2025-05-07,9475,624,15,2023.43,3863.16,12,Europe,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-05-07,8862,219,16,389.02,2961.19,13,Europe,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-05-07,10146,618,35,2727.5,3251.12,28,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-05-08,4958,252,12,217.35,1163.89,10,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-05-08,18074,926,111,2110.61,27305.48,104,Middle East,General
+CMP_008,Facebook - Promo 8,Facebook,2025-05-08,10818,167,9,301.33,296.87,7,Latin America,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-05-08,20829,515,24,2855.93,2020.32,21,Middle East,Young Adults
+CMP_004,Email - Promo 4,Email,2025-05-09,20961,1246,32,2366.21,11338.99,30,Latin America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-05-09,20546,727,68,3391.06,2816.26,55,Middle East,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-05-09,7905,447,34,2256.28,3842.99,28,Asia-Pacific,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-05-09,15129,280,8,1904.08,480.24,6,Latin America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-05-10,14089,781,113,1636.67,31027.92,94,North America,Retirees
+CMP_004,Email - Promo 4,Email,2025-05-10,15538,910,23,2406.1,6351.33,19,Latin America,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-05-10,19527,238,15,417.17,437.52,14,Middle East,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-05-10,10661,356,34,1367.12,1457.38,27,Europe,General
+CMP_010,Instagram - Promo 10,Instagram,2025-05-10,7220,193,28,612.04,4309.12,24,Middle East,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-05-10,8320,375,27,1903.85,2936.38,23,North America,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-05-11,17682,259,22,103.65,2504.04,17,Europe,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-05-11,17168,240,14,462.57,524.29,11,Europe,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-05-11,16632,521,44,2183.86,2426.76,42,Middle East,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-05-12,17290,643,36,2589.88,1778.92,29,North America,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-05-13,12946,203,15,75.91,1663.67,13,Asia-Pacific,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-05-13,19109,251,16,107.6,2190.58,15,North America,Young Adults
+CMP_007,Email - Promo 7,Email,2025-05-13,5495,176,19,847.43,1483.0,15,Latin America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-13,13041,336,62,1717.36,760.02,57,Middle East,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-05-13,15509,332,14,2148.25,459.78,13,Europe,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-05-13,18288,359,62,1904.99,5132.73,50,Europe,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-05-13,7443,262,25,1518.96,2044.37,24,Asia-Pacific,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-05-14,19416,962,104,3891.54,11073.03,86,Europe,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-05-14,16101,417,32,700.57,5416.97,31,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-05-14,10556,660,64,4378.76,3035.06,57,North America,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-05-14,7135,267,15,2289.55,1518.58,14,Asia-Pacific,Students
+CMP_004,Email - Promo 4,Email,2025-05-15,12030,951,17,2445.29,4285.54,14,Latin America,General
+CMP_007,Email - Promo 7,Email,2025-05-15,5985,188,15,779.69,1117.22,14,Europe,General
+CMP_008,Facebook - Promo 8,Facebook,2025-05-15,17097,248,8,430.91,241.1,7,Latin America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-05-15,18430,693,50,2876.06,2856.36,45,Middle East,General
+CMP_012,Twitter - Promo 12,Twitter,2025-05-15,14213,778,126,2940.99,6409.59,114,Latin America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-05-16,7503,206,19,142.95,3590.25,16,North America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-05-16,7931,213,33,728.09,3613.35,30,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-05-16,18843,756,28,3616.22,3735.45,27,Middle East,Retirees
+CMP_018,Email - Promo 18,Email,2025-05-16,10769,768,49,5850.26,3281.08,47,Asia-Pacific,Students
+CMP_018,Email - Promo 18,Email,2025-05-16,14082,1301,101,12402.47,6283.01,93,Europe,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-05-17,22754,408,22,192.23,2685.29,21,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-05-17,8663,501,46,2255.8,4856.23,40,North America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-05-17,18228,411,20,2361.29,1397.19,18,North America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-05-18,8120,179,16,112.9,3302.3,14,Asia-Pacific,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-05-18,8200,256,30,813.44,3643.37,26,Europe,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-05-18,13145,268,27,1681.93,2293.54,22,Asia-Pacific,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-05-19,19435,715,50,3288.08,2528.95,49,Asia-Pacific,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-05-19,19225,679,16,3377.3,1608.57,15,Europe,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-05-19,11354,528,27,2390.7,3005.15,23,Asia-Pacific,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-05-20,23203,1041,125,4290.61,14280.4,105,Latin America,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-20,16618,478,66,1601.52,1251.13,61,Middle East,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-05-21,16454,261,18,132.12,2918.8,16,North America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-05-21,13710,847,109,2950.01,12951.59,99,North America,Young Adults
+CMP_007,Email - Promo 7,Email,2025-05-21,5072,155,17,642.81,1372.81,13,Asia-Pacific,Retirees
+CMP_018,Email - Promo 18,Email,2025-05-21,8633,719,48,6118.76,3193.99,44,Europe,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-05-22,20014,289,24,131.47,3267.36,22,Europe,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-05-22,20395,1021,107,4225.5,13419.05,98,Middle East,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-05-22,7373,548,47,3730.42,1770.39,43,Europe,Young Adults
+CMP_017,Google Ads - Promo 17,Google Ads,2025-05-22,24758,590,29,2951.96,1555.35,23,North America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-05-23,10015,208,31,159.36,5637.04,25,North America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-05-23,10763,302,41,174.15,6361.14,33,North America,Students
+CMP_007,Email - Promo 7,Email,2025-05-23,5790,162,20,795.08,1680.1,19,North America,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-05-23,10864,585,33,2466.1,3549.37,32,Europe,Professionals
+CMP_018,Email - Promo 18,Email,2025-05-23,11568,949,91,5938.09,6794.53,80,Middle East,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-05-23,6972,296,25,2392.65,2345.98,23,Asia-Pacific,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-05-24,21579,395,28,172.42,4264.64,24,Europe,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-05-24,13778,639,53,1774.68,15025.44,47,Middle East,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-24,12481,326,43,1689.91,803.17,35,Middle East,Students
+CMP_007,Email - Promo 7,Email,2025-05-25,2847,69,7,335.69,679.36,6,Europe,General
+CMP_007,Email - Promo 7,Email,2025-05-25,5428,162,13,791.04,1077.53,11,Asia-Pacific,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-05-25,12386,324,20,597.41,4305.06,19,Europe,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-05-25,4866,346,30,2115.61,1298.55,27,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-25,11793,315,35,1405.62,534.0,33,Europe,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-05-25,12974,290,12,1180.92,1102.85,10,Asia-Pacific,Professionals
+CMP_007,Email - Promo 7,Email,2025-05-26,7478,251,30,1139.86,2259.15,27,Europe,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-05-26,14243,390,38,619.83,6445.47,34,Latin America,General
+CMP_012,Twitter - Promo 12,Twitter,2025-05-26,11822,555,52,2364.86,3492.16,45,Asia-Pacific,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-05-27,9610,582,75,2306.02,5128.18,68,North America,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-05-27,6433,425,37,1922.32,1758.37,31,Latin America,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-05-27,10451,301,43,1375.95,771.63,40,Middle East,Young Adults
+CMP_018,Email - Promo 18,Email,2025-05-27,11117,894,56,5374.55,5173.04,52,Latin America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-05-28,16697,520,49,2256.09,2204.99,48,Latin America,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-05-28,6382,329,37,2182.83,2452.83,31,Middle East,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-05-29,21057,274,21,124.4,2988.89,18,Europe,General
+CMP_004,Email - Promo 4,Email,2025-05-29,13918,851,14,2869.02,3641.87,12,Asia-Pacific,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-05-29,6122,161,23,84.98,3574.46,22,Latin America,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-05-29,11999,147,6,277.29,167.92,5,Europe,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-05-29,10098,312,46,1024.08,5392.16,44,Europe,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-05-29,13835,249,25,1865.48,2430.6,20,Europe,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-05-30,6815,341,20,285.93,1584.36,18,Europe,Young Adults
+CMP_007,Email - Promo 7,Email,2025-05-30,5468,192,22,824.16,1718.13,18,Latin America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-05-30,8159,251,37,800.42,4208.07,30,North America,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-05-30,7707,481,35,2081.76,3500.43,34,Middle East,Professionals
+CMP_018,Email - Promo 18,Email,2025-05-30,12816,859,53,5611.82,5956.93,47,Europe,Retirees
+CMP_018,Email - Promo 18,Email,2025-05-30,12632,1171,98,9623.11,9781.44,80,North America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-05-31,16643,883,88,2374.63,17850.96,78,Europe,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-05-31,16663,836,70,1938.13,11627.38,59,Middle East,General
+CMP_005,Instagram - Promo 5,Instagram,2025-05-31,9481,269,35,185.6,8284.13,33,Latin America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-05-31,9084,258,31,194.81,4742.25,27,Latin America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-05-31,10881,564,49,2636.34,4605.19,40,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-05-31,11843,785,76,5443.38,7430.65,69,Asia-Pacific,Young Adults
+CMP_007,Email - Promo 7,Email,2025-06-01,6591,175,12,790.15,1214.86,10,Europe,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-06-01,13120,328,36,1461.2,798.48,30,Asia-Pacific,Young Adults
+CMP_018,Email - Promo 18,Email,2025-06-01,12522,869,82,6702.4,10360.85,67,Middle East,General
+CMP_008,Facebook - Promo 8,Facebook,2025-06-02,12053,185,9,358.72,297.67,8,Europe,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-02,14272,584,13,2646.3,1485.74,11,Latin America,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-06-02,5524,316,30,1706.93,1316.07,28,Middle East,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-02,12020,244,30,1208.56,3188.65,27,Europe,General
+CMP_005,Instagram - Promo 5,Instagram,2025-06-03,11392,257,31,122.92,7078.28,30,North America,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-06-03,17508,976,121,3789.02,14343.88,111,Europe,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-06-03,20400,937,150,3724.0,16311.65,123,Middle East,General
+CMP_010,Instagram - Promo 10,Instagram,2025-06-03,6979,223,31,704.11,3438.42,26,Europe,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-06-03,9182,244,24,864.52,3390.73,20,Middle East,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-06-03,10778,293,38,1502.93,738.81,33,Europe,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-06-03,23305,446,17,2875.54,1200.81,15,Latin America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-03,16241,277,41,2061.31,4286.05,37,Latin America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-06-04,17364,261,21,136.86,2791.86,17,Europe,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-04,14599,624,68,1528.88,11341.72,63,Middle East,Retirees
+CMP_007,Email - Promo 7,Email,2025-06-05,7508,237,23,1087.24,1950.38,18,Latin America,General
+CMP_008,Facebook - Promo 8,Facebook,2025-06-05,18633,241,12,414.52,343.08,11,Asia-Pacific,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-06-05,11031,286,55,1465.13,792.13,46,Europe,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-06-06,5521,357,23,222.85,1716.28,19,Europe,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-06,9223,402,56,905.77,10428.54,46,Europe,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-06-06,15048,191,8,316.01,300.19,6,North America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-06-06,11614,677,83,2574.97,5405.42,73,Europe,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-06-06,8051,475,45,2267.08,1562.12,37,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-06-06,21235,420,13,2875.28,685.82,11,Asia-Pacific,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-06-06,6477,303,28,2446.6,2328.13,23,Asia-Pacific,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-07,12980,861,19,1992.58,5853.08,17,Latin America,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-07,18248,1273,22,3357.3,6474.58,19,North America,Retirees
+CMP_007,Email - Promo 7,Email,2025-06-07,7373,208,21,858.7,1865.27,18,Middle East,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-06-07,7786,95,4,163.92,141.03,3,Europe,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-08,14588,591,50,1540.65,10049.4,44,Latin America,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-06-08,13471,153,8,288.36,241.58,6,Europe,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-08,8656,181,30,1203.59,2413.92,24,Asia-Pacific,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-06-09,7979,464,21,283.75,1760.48,19,Asia-Pacific,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-09,19459,414,55,2936.16,5994.15,48,Europe,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-06-09,7112,288,16,2078.29,1447.91,13,Asia-Pacific,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-10,10750,545,69,1450.96,10800.3,56,Middle East,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-10,13199,742,12,1928.29,3269.09,11,North America,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-10,10376,691,18,1578.44,6198.19,15,North America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-06-10,10934,326,30,176.88,5230.74,27,Asia-Pacific,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-06-10,15902,944,101,3501.58,7259.53,86,Latin America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-10,22888,760,19,3714.01,2641.9,15,North America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-06-10,7139,435,32,2081.96,1379.75,27,North America,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-06-11,6689,455,19,393.96,1584.51,18,Latin America,Professionals
+CMP_004,Email - Promo 4,Email,2025-06-11,10011,675,11,1599.51,3404.25,9,Latin America,General
+CMP_015,Instagram - Promo 15,Instagram,2025-06-11,7569,533,48,3755.73,2265.32,44,Europe,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-06-12,7785,216,31,115.05,5515.84,29,Europe,Retirees
+CMP_007,Email - Promo 7,Email,2025-06-12,5918,145,11,697.01,814.55,9,North America,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-06-12,27349,473,24,2248.4,1620.65,20,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-06-12,22034,543,24,3632.32,1090.66,22,Asia-Pacific,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-06-13,20712,330,23,122.86,3137.32,18,North America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-06-13,10275,578,43,2519.49,4479.09,37,Asia-Pacific,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-06-14,4792,239,8,149.78,714.49,6,Middle East,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-06-14,7943,205,18,113.31,3748.31,17,Europe,General
+CMP_007,Email - Promo 7,Email,2025-06-14,7215,201,20,950.57,1547.12,18,Europe,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-06-14,7232,272,26,1774.99,1715.06,25,North America,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-06-15,5207,275,16,174.85,1321.32,14,North America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-06-15,21958,321,26,114.71,4119.26,22,Latin America,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-06-15,23472,433,22,209.15,2586.5,19,North America,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-06-15,20038,1234,155,4467.54,15866.76,126,Europe,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-06-15,17638,791,110,2778.47,12952.13,90,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-06-15,23533,987,93,3779.35,4513.13,90,North America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-15,12247,462,16,1996.43,2321.34,15,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-06-15,9870,466,31,2092.85,2982.6,25,Middle East,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-06-16,5074,315,11,194.44,662.35,8,Europe,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-06-16,16352,274,19,138.44,2685.53,15,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-16,12215,599,83,1164.93,14947.33,80,Latin America,Professionals
+CMP_004,Email - Promo 4,Email,2025-06-16,14866,1106,23,3543.39,7669.3,20,Middle East,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-06-17,6620,382,18,243.33,1840.06,16,Middle East,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-06-17,15612,237,15,97.07,2108.78,13,Middle East,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-17,12109,707,17,1525.27,5017.89,14,Middle East,General
+CMP_006,Instagram - Promo 6,Instagram,2025-06-17,20624,944,93,3926.21,12479.59,83,Middle East,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-06-18,7601,483,22,291.47,1505.56,17,Europe,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-06-18,18855,1164,125,4609.64,13648.83,109,Asia-Pacific,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-19,13637,962,22,1999.48,6684.2,19,Europe,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-19,14369,440,10,2032.34,1260.25,9,Latin America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-19,16484,654,23,3157.4,3267.79,21,Middle East,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-19,15802,516,17,2233.86,1889.4,15,Latin America,Students
+CMP_018,Email - Promo 18,Email,2025-06-19,9712,864,85,5338.88,4731.14,80,Latin America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-19,19043,307,44,1616.26,5185.0,41,Asia-Pacific,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-06-19,6727,267,26,2302.52,3199.05,20,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-06-20,17472,330,28,112.62,3848.75,26,Middle East,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-06-20,17909,237,9,427.98,290.63,8,Europe,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-20,13435,248,43,1290.46,4866.92,38,North America,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-06-20,4964,234,23,2032.57,1823.33,21,North America,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-06-21,6467,456,26,245.31,1919.21,23,North America,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-06-21,10568,702,61,3026.68,5030.92,58,North America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-06-21,10136,538,43,4470.1,2651.2,36,Latin America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-06-21,7130,263,21,1888.82,1742.69,19,North America,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-06-22,10659,270,26,488.17,4067.91,23,Europe,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-06-22,7723,352,19,2781.1,1949.85,17,Middle East,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-06-23,17557,227,9,439.84,343.85,8,North America,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-23,12459,561,19,2707.71,2659.32,17,Middle East,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-06-23,7794,485,37,2044.16,4066.8,30,Middle East,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-24,17085,995,105,2483.04,22751.7,84,Middle East,General
+CMP_005,Instagram - Promo 5,Instagram,2025-06-25,8776,242,23,199.83,3213.18,22,Latin America,Students
+CMP_007,Email - Promo 7,Email,2025-06-25,7446,257,30,1058.19,2305.93,28,Middle East,General
+CMP_004,Email - Promo 4,Email,2025-06-26,13306,810,18,2265.95,4454.93,16,Latin America,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-06-26,14239,378,38,652.54,5742.43,31,Europe,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-06-26,14135,280,29,1826.99,2529.83,25,North America,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-06-27,11625,629,58,1305.51,11298.42,49,Latin America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-06-27,6851,175,18,574.86,2012.22,15,Latin America,General
+CMP_015,Instagram - Promo 15,Instagram,2025-06-27,7602,413,45,3273.34,2538.95,36,Europe,Students
+CMP_018,Email - Promo 18,Email,2025-06-27,8522,714,48,6291.06,5772.62,43,Asia-Pacific,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-29,13276,1007,18,2878.03,5481.51,16,Latin America,Retirees
+CMP_004,Email - Promo 4,Email,2025-06-29,13829,1072,24,3049.4,9650.06,21,Latin America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-06-29,17306,552,12,2532.6,1675.53,10,Middle East,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-06-29,10977,322,55,1892.21,899.9,47,Asia-Pacific,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-06-29,5553,213,21,1499.1,1132.01,17,Latin America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-06-30,19474,285,27,145.77,3473.3,22,Middle East,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-06-30,10828,271,18,485.27,3684.53,15,Latin America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-06-30,5738,426,34,2703.53,1895.21,32,Asia-Pacific,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-06-30,16507,341,11,2499.0,949.81,9,North America,Retirees
+CMP_004,Email - Promo 4,Email,2025-07-01,14025,1112,26,2753.98,7731.13,22,Middle East,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-07-01,9447,236,19,425.95,4168.71,15,Asia-Pacific,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-07-01,10220,678,51,3036.44,4631.05,46,Latin America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-07-01,6046,381,28,1896.98,3128.53,23,Middle East,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-01,7936,189,30,975.99,388.85,27,Middle East,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-07-02,7430,460,21,304.19,1562.82,18,Asia-Pacific,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-07-02,4831,165,9,1696.58,824.98,8,Europe,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-07-03,15420,714,82,2509.83,7680.6,70,Europe,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-07-03,6244,396,28,2547.11,1106.98,27,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-03,8644,242,30,1180.6,590.57,25,North America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-03,14815,307,33,2228.04,1774.88,29,Latin America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-07-04,13791,190,12,367.98,330.39,11,Latin America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-07-04,7672,241,25,865.81,3697.43,20,Asia-Pacific,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-07-04,17249,408,32,694.14,6394.54,27,Latin America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-07-04,13929,810,71,3613.51,7186.68,61,Latin America,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-04,12883,257,31,1347.27,3451.9,29,North America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-07-05,10883,307,26,252.06,5912.3,23,Latin America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-07-05,7005,516,44,3644.24,2633.43,35,Middle East,General
+CMP_006,Instagram - Promo 6,Instagram,2025-07-06,23637,1003,103,3722.02,13640.74,90,North America,Professionals
+CMP_007,Email - Promo 7,Email,2025-07-06,5821,209,26,960.35,1880.25,24,Latin America,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-07-07,6134,450,37,3144.67,2114.8,33,Middle East,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-07,10871,268,51,968.42,680.87,44,Middle East,Professionals
+CMP_018,Email - Promo 18,Email,2025-07-07,9218,592,53,5307.9,5290.73,49,North America,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-07,13111,277,35,1836.67,2884.06,32,Middle East,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-07-08,18316,1074,105,4031.23,12437.8,98,North America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-07-08,21802,832,75,3266.08,4382.84,72,Europe,General
+CMP_011,Facebook - Promo 11,Facebook,2025-07-08,9290,240,22,442.37,4395.38,20,Asia-Pacific,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-07-08,13018,708,48,2967.4,4852.63,41,Middle East,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-07-08,9778,496,25,2262.57,2129.72,21,Latin America,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-07-09,16868,217,16,94.91,1579.43,13,Middle East,Young Adults
+CMP_004,Email - Promo 4,Email,2025-07-09,11748,639,10,1894.17,2872.12,9,Middle East,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-07-09,12202,134,6,259.44,197.73,5,Middle East,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-07-09,9475,426,27,1890.72,2837.65,24,Latin America,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-07-10,19466,749,50,3347.21,2746.95,45,Latin America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-07-10,6172,199,26,635.58,2900.69,23,Middle East,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-07-10,18632,785,17,3743.09,2221.45,16,Latin America,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-10,7246,183,35,1066.28,879.72,34,Middle East,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-07-10,22904,539,28,3358.05,2087.85,23,Latin America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-07-11,8914,264,39,167.23,6445.18,35,Europe,General
+CMP_012,Twitter - Promo 12,Twitter,2025-07-11,11970,622,76,2573.31,4048.57,63,Latin America,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-07-11,15146,363,14,1867.27,690.23,13,North America,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-07-11,6959,327,29,2786.07,3256.37,27,Latin America,General
+CMP_007,Email - Promo 7,Email,2025-07-12,7117,214,21,1034.64,2092.83,17,Europe,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-07-12,15507,194,12,323.31,364.73,10,Middle East,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-07-12,19621,238,9,411.44,327.08,7,Latin America,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-07-12,18083,999,155,4236.76,8065.98,154,Middle East,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-12,12814,265,39,1194.18,3905.63,32,Middle East,General
+CMP_020,Instagram - Promo 20,Instagram,2025-07-12,7118,331,19,2040.42,1964.29,18,Europe,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-07-13,12157,436,15,1936.01,1908.58,12,Latin America,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-07-13,7177,478,47,3031.99,1592.0,43,Latin America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-07-14,9548,281,29,202.82,6708.13,27,North America,Students
+CMP_007,Email - Promo 7,Email,2025-07-14,6141,174,18,742.81,1370.65,16,Middle East,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-07-14,12675,455,32,2082.29,1861.49,27,Asia-Pacific,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-07-14,20891,892,27,3860.32,2739.79,22,Europe,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-07-14,5618,304,31,1389.86,1336.91,29,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-14,7740,211,27,884.63,688.23,23,Latin America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-07-14,11490,1052,67,8413.48,9572.04,62,Asia-Pacific,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-14,15725,333,39,2258.36,3609.54,38,Latin America,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-07-14,7777,255,25,1974.36,1482.08,20,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-07-15,15295,290,27,121.45,2549.7,24,Latin America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-07-15,17922,806,108,2803.52,13850.8,88,Middle East,Students
+CMP_007,Email - Promo 7,Email,2025-07-15,4956,177,23,745.48,1718.31,20,Asia-Pacific,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-07-15,16882,243,15,460.96,505.6,14,North America,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-07-15,8812,226,17,412.14,2728.98,16,Europe,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-07-15,11831,752,43,3339.77,4288.63,35,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-07-15,8606,610,51,3822.85,2490.05,41,Asia-Pacific,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-15,11915,250,30,1895.14,1938.86,26,North America,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-07-15,5594,225,18,1958.44,1782.98,16,Middle East,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-07-16,12236,161,8,292.05,262.21,7,Latin America,General
+CMP_009,Facebook - Promo 9,Facebook,2025-07-16,12544,505,50,2062.93,1982.38,47,Europe,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-07-16,14279,861,123,3745.64,8323.65,107,Middle East,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-07-16,7907,328,23,2596.34,1110.49,18,Latin America,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-07-17,22422,428,39,174.49,4410.8,34,Latin America,Retirees
+CMP_004,Email - Promo 4,Email,2025-07-17,15765,1093,20,3737.22,5962.42,17,Asia-Pacific,Retirees
+CMP_004,Email - Promo 4,Email,2025-07-17,15590,912,14,2034.01,5017.85,12,Asia-Pacific,General
+CMP_007,Email - Promo 7,Email,2025-07-17,4346,120,14,544.96,1144.56,11,Middle East,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-07-17,11111,291,27,521.44,6030.23,24,North America,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-07-17,22373,687,19,3425.69,2622.73,17,Europe,Young Adults
+CMP_018,Email - Promo 18,Email,2025-07-17,13125,1057,79,6777.14,7083.33,66,Europe,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-07-18,15443,191,9,346.65,260.91,8,Latin America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-07-18,10034,788,73,6988.17,4998.88,65,Asia-Pacific,General
+CMP_015,Instagram - Promo 15,Instagram,2025-07-19,6235,420,34,2542.14,884.56,30,Europe,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-19,9981,267,39,1199.27,515.91,37,North America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-07-19,5039,181,13,1292.98,1064.02,10,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-07-20,18767,678,43,3080.86,2397.16,41,North America,General
+CMP_011,Facebook - Promo 11,Facebook,2025-07-20,11931,325,32,556.26,6791.88,28,Middle East,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-07-20,14051,449,31,722.28,6250.62,28,Middle East,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-07-20,15316,1006,108,4343.26,7801.36,96,Latin America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-20,16867,265,31,1742.92,1770.73,28,Middle East,Young Adults
+CMP_004,Email - Promo 4,Email,2025-07-21,13906,1047,17,2932.93,4547.34,16,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2025-07-21,9940,776,12,1989.13,3948.48,9,Asia-Pacific,General
+CMP_010,Instagram - Promo 10,Instagram,2025-07-21,7246,197,27,694.38,4098.82,24,North America,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-07-21,11391,303,20,565.67,4134.62,16,Asia-Pacific,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-07-21,14380,991,143,3924.48,7045.95,134,Europe,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-21,10914,308,50,1368.55,1171.24,40,Middle East,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-21,13721,237,30,1623.86,2122.41,25,Asia-Pacific,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-07-22,17690,226,10,379.38,309.89,9,Europe,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-07-22,11780,730,80,3200.14,4710.97,64,Middle East,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-07-22,16614,405,73,1582.75,835.99,67,Middle East,Professionals
+CMP_018,Email - Promo 18,Email,2025-07-22,12742,846,56,8516.55,3904.78,51,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-07-23,21007,396,37,145.02,3878.81,36,Latin America,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-07-23,17797,554,44,2320.23,1762.82,43,Europe,General
+CMP_012,Twitter - Promo 12,Twitter,2025-07-23,12782,731,90,2982.0,4752.06,79,Latin America,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-07-24,16439,1011,139,4162.2,14277.23,115,Latin America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-07-24,10876,547,36,2442.8,3398.15,33,Latin America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-07-24,5844,308,19,1297.97,2067.79,18,North America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-07-24,9770,561,44,2622.51,2248.99,43,Latin America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-07-25,11549,699,13,1647.93,4730.74,12,Latin America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-07-25,9889,292,27,148.32,4763.22,25,North America,General
+CMP_006,Instagram - Promo 6,Instagram,2025-07-25,18389,807,100,2799.92,10038.11,90,Asia-Pacific,Young Adults
+CMP_007,Email - Promo 7,Email,2025-07-25,6623,208,18,991.13,1264.86,14,Asia-Pacific,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-07-25,16068,187,8,362.88,269.66,7,Europe,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-07-25,11840,321,55,1061.51,7873.25,53,North America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-07-26,9097,256,37,169.43,6399.45,30,North America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-07-26,19816,239,14,401.19,461.84,13,Latin America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-07-27,26664,1424,181,5724.55,21249.76,162,North America,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-27,11983,186,21,984.9,1682.51,18,North America,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-07-28,7604,427,28,294.8,2584.93,23,Europe,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-07-28,17330,632,40,2692.13,2327.04,36,Middle East,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-07-28,20291,436,15,2076.69,506.74,13,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-07-29,18058,345,29,116.36,3500.07,27,Asia-Pacific,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-07-29,14553,755,72,2270.33,14207.13,67,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-07-29,15103,710,83,1746.53,17443.75,73,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-07-29,17649,748,104,1643.29,18773.58,98,Latin America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-07-29,8765,217,33,152.34,7408.16,30,Europe,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-07-29,13226,323,25,549.68,5027.11,20,Latin America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-07-29,15385,313,45,1935.04,2152.12,39,Asia-Pacific,General
+CMP_020,Instagram - Promo 20,Instagram,2025-07-29,5111,210,16,1910.49,2279.45,15,Europe,General
+CMP_007,Email - Promo 7,Email,2025-07-30,5662,172,22,804.13,2188.25,21,Asia-Pacific,General
+CMP_008,Facebook - Promo 8,Facebook,2025-07-30,15854,229,12,438.42,439.35,10,North America,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-07-30,12142,714,61,3141.83,5408.54,52,Asia-Pacific,Young Adults
+CMP_018,Email - Promo 18,Email,2025-07-30,10216,824,63,8110.26,7064.23,50,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-07-31,19679,966,112,2650.65,19566.71,103,Asia-Pacific,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-07-31,16921,465,41,759.63,7340.14,35,Asia-Pacific,General
+CMP_011,Facebook - Promo 11,Facebook,2025-07-31,11470,304,30,562.38,5090.68,29,Latin America,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-07-31,7894,501,29,2441.48,2392.58,24,Latin America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-07-31,6636,425,27,2371.41,987.13,25,Europe,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-07-31,7940,284,23,1970.24,1531.16,20,North America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-08-01,16102,807,86,1968.2,21082.05,76,Latin America,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-08-01,10318,598,44,2644.55,4489.01,39,Latin America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-08-01,5466,206,16,1858.42,1032.75,12,Latin America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-08-02,16212,917,16,2465.26,4523.15,13,Latin America,Retirees
+CMP_004,Email - Promo 4,Email,2025-08-02,12909,728,11,1716.77,3272.41,9,Latin America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-08-02,11088,255,22,189.21,4085.42,20,Middle East,Professionals
+CMP_007,Email - Promo 7,Email,2025-08-02,7467,269,29,1167.39,2584.69,25,Latin America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-08-02,7447,248,38,767.31,4912.76,36,Europe,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-08-02,12198,847,120,3133.91,5924.12,97,Europe,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-08-02,17185,272,30,1572.66,3283.06,25,Asia-Pacific,Professionals
+CMP_007,Email - Promo 7,Email,2025-08-03,7615,259,18,1272.1,1501.66,15,Europe,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-08-03,16260,237,13,410.02,458.79,11,Latin America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-08-03,15968,639,52,2986.93,2401.69,50,Latin America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-03,20573,835,19,3818.81,1889.95,17,Europe,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-08-03,7539,297,21,2510.16,2239.38,18,Latin America,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-08-04,20235,686,50,2821.44,2767.12,48,Middle East,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-08-04,10565,211,33,1452.7,1882.32,26,Middle East,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-08-04,13375,244,32,1265.1,2957.53,27,Middle East,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-08-05,12110,134,5,230.61,196.75,4,Europe,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-08-05,10886,351,34,1563.64,1802.97,29,Middle East,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-05,18861,629,14,2769.21,1722.02,12,Europe,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-05,17690,653,21,2778.58,2982.59,20,North America,Students
+CMP_018,Email - Promo 18,Email,2025-08-05,10985,715,75,4746.75,5109.38,69,Middle East,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-08-06,17364,838,115,3158.55,15838.8,98,Europe,Students
+CMP_007,Email - Promo 7,Email,2025-08-06,7858,213,17,910.43,1191.79,14,North America,General
+CMP_005,Instagram - Promo 5,Instagram,2025-08-07,8435,190,28,105.86,5620.09,22,Middle East,General
+CMP_005,Instagram - Promo 5,Instagram,2025-08-08,6046,175,26,123.21,5709.04,24,Latin America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-08-08,11683,123,6,205.39,221.02,5,North America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-08-08,8665,295,43,1004.41,5648.71,42,North America,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-08-08,12009,269,24,468.34,4397.45,19,Asia-Pacific,General
+CMP_015,Instagram - Promo 15,Instagram,2025-08-08,7698,488,35,3176.02,2068.84,29,Asia-Pacific,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-08-08,5104,272,21,1711.91,633.26,19,North America,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-08-08,14532,311,33,2400.34,1731.32,29,Europe,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-08-09,8411,601,24,447.04,1849.53,20,Europe,General
+CMP_002,Twitter - Promo 2,Twitter,2025-08-09,18293,288,26,132.47,3039.03,20,North America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-08-09,8754,202,29,118.07,5787.1,28,Europe,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-08-09,10042,215,24,140.57,3888.59,23,Latin America,General
+CMP_007,Email - Promo 7,Email,2025-08-09,4879,153,16,631.17,1153.77,13,Middle East,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-10,15191,572,11,2867.15,1201.02,9,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2025-08-11,16892,903,14,2749.35,5287.74,12,Middle East,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-08-11,17873,859,125,3160.0,15852.1,123,Asia-Pacific,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-08-11,8692,257,38,879.78,5621.1,36,Asia-Pacific,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-08-11,15897,511,34,835.96,6810.22,30,Latin America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-08-11,8907,575,46,4582.9,3385.85,42,Asia-Pacific,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-08-11,7035,243,24,2071.3,1823.97,20,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-12,12470,293,43,1475.85,732.3,41,Middle East,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-12,10531,223,28,786.21,599.84,24,Latin America,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-08-12,17060,284,47,1737.74,3004.51,38,Middle East,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-08-13,5785,328,15,257.34,1254.89,14,Latin America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-08-13,12671,552,71,1434.36,14867.17,69,North America,Professionals
+CMP_004,Email - Promo 4,Email,2025-08-13,16235,894,13,2844.85,3330.48,10,Latin America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-08-13,12619,786,93,2908.49,5660.79,91,Europe,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-08-14,6868,442,19,241.46,1271.79,17,North America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-08-14,14700,801,78,2155.24,14915.28,64,Europe,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-08-14,15036,258,8,1879.07,719.42,7,Asia-Pacific,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-08-15,15555,806,65,1904.05,11516.64,53,Asia-Pacific,General
+CMP_008,Facebook - Promo 8,Facebook,2025-08-15,17815,273,12,539.05,344.77,10,Latin America,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-08-16,4594,233,11,195.29,827.0,10,Europe,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-08-16,5863,125,13,87.28,2118.31,10,North America,Young Adults
+CMP_007,Email - Promo 7,Email,2025-08-16,6250,174,20,853.71,1971.76,17,Latin America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-08-16,14031,206,8,382.67,249.34,7,Asia-Pacific,Students
+CMP_018,Email - Promo 18,Email,2025-08-16,9586,665,62,5688.29,5666.34,57,Europe,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-08-16,12317,231,29,1247.77,1764.57,28,North America,General
+CMP_001,Twitter - Promo 1,Twitter,2025-08-17,9105,506,33,456.34,3305.27,32,Asia-Pacific,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-08-17,5793,397,16,232.03,1271.75,14,Middle East,General
+CMP_009,Facebook - Promo 9,Facebook,2025-08-17,19215,604,51,2791.54,2278.37,47,North America,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-08-17,12445,298,26,495.72,5278.51,24,North America,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-17,20086,766,18,3382.14,1874.33,15,Middle East,General
+CMP_014,Twitter - Promo 14,Twitter,2025-08-17,8601,423,38,1902.87,4338.34,37,North America,General
+CMP_018,Email - Promo 18,Email,2025-08-17,7875,615,62,4450.43,5951.25,53,Europe,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-08-17,6774,283,20,1806.37,2248.58,19,Europe,Retirees
+CMP_007,Email - Promo 7,Email,2025-08-18,6350,214,26,907.37,2374.87,21,Europe,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-08-18,11041,620,33,2626.72,3516.84,30,Middle East,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-18,12779,376,40,1523.83,929.84,33,Middle East,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-08-19,20540,306,22,108.84,2669.19,17,Middle East,Professionals
+CMP_004,Email - Promo 4,Email,2025-08-19,15217,1199,19,3717.74,5567.0,17,Latin America,General
+CMP_004,Email - Promo 4,Email,2025-08-19,14853,935,20,3186.19,4436.52,17,Asia-Pacific,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-08-19,12562,323,22,552.66,4506.74,20,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-19,13711,369,61,1280.08,1702.64,55,Asia-Pacific,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-08-20,14852,877,117,2331.56,27388.66,116,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2025-08-20,12890,1012,15,3482.17,4673.28,14,Middle East,Professionals
+CMP_004,Email - Promo 4,Email,2025-08-20,11697,649,15,1590.15,3975.67,13,Latin America,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-20,16695,666,19,2835.04,2568.91,16,Europe,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-08-21,4888,313,12,245.74,1143.0,11,Middle East,Students
+CMP_004,Email - Promo 4,Email,2025-08-21,10947,654,17,1382.59,6597.21,14,Latin America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-08-21,5424,121,17,82.0,3165.88,15,Asia-Pacific,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-08-21,16221,865,104,3178.27,12625.09,87,Middle East,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-08-21,21247,941,100,3599.42,12784.01,98,North America,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-21,12185,256,40,1262.09,797.2,36,Latin America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-08-22,12458,232,11,1289.71,462.6,9,Middle East,General
+CMP_018,Email - Promo 18,Email,2025-08-22,15299,1073,98,8006.01,9068.1,90,North America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-08-23,6952,170,26,556.48,2990.7,21,Europe,General
+CMP_011,Facebook - Promo 11,Facebook,2025-08-23,12881,336,19,603.28,3279.54,16,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2025-08-24,11951,671,12,2244.85,3580.31,9,Middle East,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-08-24,4489,227,19,1276.85,1190.44,18,Middle East,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-24,13259,274,30,1444.43,652.38,29,Latin America,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-24,11604,334,60,1706.52,740.98,54,Middle East,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-08-24,8198,323,19,2745.2,1819.21,16,Asia-Pacific,Young Adults
+CMP_004,Email - Promo 4,Email,2025-08-25,6588,438,10,1037.62,4106.36,8,North America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-08-25,8580,192,28,100.15,5578.09,22,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-08-25,19950,713,68,3063.27,4020.1,55,Europe,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-08-25,6477,372,27,2493.37,1112.41,25,Asia-Pacific,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-25,9853,254,32,1033.41,835.75,26,North America,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-08-26,24996,1247,195,4863.44,23500.15,157,Asia-Pacific,General
+CMP_007,Email - Promo 7,Email,2025-08-26,6983,252,21,1049.99,1501.98,19,Europe,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-26,17086,605,16,2913.05,1732.31,13,Asia-Pacific,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-26,12390,406,13,1828.47,1824.24,12,Latin America,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-08-27,8828,485,43,2026.48,3685.25,40,Latin America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-27,11021,297,44,1549.92,949.23,38,Europe,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-08-27,15731,362,15,1835.69,1160.81,13,Middle East,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-08-28,10073,202,19,127.51,3611.37,18,Latin America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-08-29,8437,231,40,818.88,6064.11,37,Middle East,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-08-29,16589,515,16,2185.33,2057.85,15,Latin America,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-08-29,5039,182,16,1299.89,1189.85,15,North America,General
+CMP_001,Twitter - Promo 1,Twitter,2025-08-30,6053,429,18,336.55,1367.16,15,Middle East,Professionals
+CMP_004,Email - Promo 4,Email,2025-08-30,13665,983,25,2216.87,9201.23,24,Middle East,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-08-30,17415,270,17,496.17,477.97,16,Asia-Pacific,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-08-30,10865,284,34,1370.6,307.48,32,North America,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-08-30,6565,259,17,2402.94,1076.84,14,Middle East,General
+CMP_002,Twitter - Promo 2,Twitter,2025-08-31,12998,235,19,86.64,1876.73,18,Asia-Pacific,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-08-31,6776,164,15,109.7,2715.88,13,North America,Professionals
+CMP_007,Email - Promo 7,Email,2025-08-31,5908,211,17,989.43,1475.29,16,Latin America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-08-31,13455,775,85,2852.1,5344.47,81,Middle East,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-09-01,21293,276,24,89.01,3247.41,20,Asia-Pacific,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-01,14007,703,68,1622.28,16354.92,60,Middle East,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-09-01,15652,1058,170,4540.75,9001.57,140,Latin America,General
+CMP_015,Instagram - Promo 15,Instagram,2025-09-01,6775,385,26,2447.06,1013.06,25,Asia-Pacific,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-02,16068,727,22,3409.22,2711.11,19,Middle East,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-09-02,6953,445,51,2476.55,2211.62,41,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-02,10444,222,30,828.52,438.56,27,Latin America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-09-02,8978,315,27,2441.36,3226.36,23,Asia-Pacific,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-09-03,5699,365,20,239.72,1275.22,17,Latin America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-09-03,15433,266,19,94.84,2089.23,15,Latin America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-09-03,11380,306,40,221.56,5505.63,32,Latin America,General
+CMP_007,Email - Promo 7,Email,2025-09-03,6980,206,21,979.21,1661.81,19,Asia-Pacific,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-09-03,16105,898,121,3283.37,7561.13,118,Middle East,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-09-03,6543,412,33,2954.62,1914.82,30,Europe,Retirees
+CMP_007,Email - Promo 7,Email,2025-09-04,5908,144,17,685.4,1604.26,16,Latin America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-09-04,21515,423,58,2846.81,4243.69,55,North America,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-09-05,6156,333,21,299.33,1703.48,18,Middle East,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-09-05,11978,346,39,199.29,6681.05,36,Latin America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-09-05,11195,270,27,128.7,6477.02,24,Latin America,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-05,21134,827,17,3478.97,2320.67,16,Latin America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-09-05,5308,230,20,1308.77,2288.48,19,North America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-09-05,7663,345,34,3046.91,2647.28,29,Middle East,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-09-06,23110,881,62,3883.63,2829.41,53,Latin America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-09-06,14900,459,35,756.24,7285.74,28,Middle East,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-06,21336,806,22,3625.69,2218.4,20,Europe,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-07,14681,669,55,1326.33,12841.48,46,Asia-Pacific,Professionals
+CMP_004,Email - Promo 4,Email,2025-09-07,13967,1031,18,2795.18,6012.5,15,North America,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-09-07,17867,1080,135,4083.05,17369.05,112,North America,Students
+CMP_007,Email - Promo 7,Email,2025-09-07,8011,214,23,1004.92,1621.82,19,Latin America,General
+CMP_009,Facebook - Promo 9,Facebook,2025-09-07,15752,665,45,3064.87,2442.32,44,Latin America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-09-07,6825,310,26,1958.79,3073.53,25,Asia-Pacific,General
+CMP_004,Email - Promo 4,Email,2025-09-08,14658,1148,20,2993.58,5598.79,16,Middle East,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-09-08,12855,222,8,1064.9,626.6,6,Asia-Pacific,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-09-09,24824,431,24,202.78,2552.82,21,Middle East,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-09,13505,560,65,1529.96,17384.74,55,North America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-09-09,18414,890,103,3545.39,11956.32,94,Latin America,Professionals
+CMP_007,Email - Promo 7,Email,2025-09-09,4958,157,20,761.59,1462.22,17,Asia-Pacific,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-09,14237,469,11,2122.15,1571.56,10,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-09-09,7964,446,39,3205.42,2081.79,31,Asia-Pacific,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-09-09,13963,265,8,1691.1,311.16,6,Europe,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-09-10,17485,260,17,76.93,2158.35,14,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-09-10,6335,462,31,3184.22,1796.27,29,North America,Students
+CMP_018,Email - Promo 18,Email,2025-09-10,12876,1066,116,9453.45,6439.14,106,Latin America,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-09-11,7485,461,21,329.93,2025.85,17,Asia-Pacific,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-09-11,5523,138,17,90.64,3180.05,16,North America,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-09-11,17817,520,39,944.02,8155.63,33,Latin America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-11,12906,422,13,2097.79,1831.93,12,Latin America,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-11,14684,664,15,3213.92,2036.04,13,Middle East,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-11,19979,725,15,3144.94,1780.9,12,North America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-11,10904,285,46,1315.29,971.68,42,Latin America,Students
+CMP_004,Email - Promo 4,Email,2025-09-12,13786,808,14,1714.29,4425.4,11,Europe,General
+CMP_004,Email - Promo 4,Email,2025-09-12,14037,831,20,2017.73,7905.68,19,Middle East,General
+CMP_005,Instagram - Promo 5,Instagram,2025-09-12,7925,170,15,92.41,2276.65,14,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-12,8839,239,25,1266.61,383.99,21,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-09-13,17040,222,18,106.65,2027.55,15,Asia-Pacific,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-09-13,4723,132,17,91.39,4418.81,16,Asia-Pacific,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-09-13,19088,938,119,3765.81,12848.43,118,North America,Students
+CMP_007,Email - Promo 7,Email,2025-09-13,8195,273,33,1152.48,2526.96,27,Europe,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-09-13,19705,652,42,2690.75,1723.26,39,North America,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-09-13,7003,216,22,675.94,2448.39,20,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-13,12958,318,36,1184.86,662.01,31,North America,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-09-13,16085,263,44,1548.29,2801.67,35,Europe,General
+CMP_020,Instagram - Promo 20,Instagram,2025-09-13,8528,305,21,3004.38,2054.58,20,Europe,General
+CMP_001,Twitter - Promo 1,Twitter,2025-09-14,7619,408,15,338.57,1036.03,12,Europe,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-09-14,5172,307,15,269.91,1108.48,14,Asia-Pacific,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-09-14,16746,876,81,3526.46,9547.08,77,Middle East,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-09-14,19785,843,81,3441.15,4165.48,75,Europe,General
+CMP_010,Instagram - Promo 10,Instagram,2025-09-14,12141,360,58,1291.91,8630.44,57,Middle East,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-14,24463,786,17,3275.81,2075.57,14,Latin America,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-09-14,9745,625,50,2632.13,4529.17,41,Middle East,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-09-14,19594,342,36,1988.68,2376.96,32,Asia-Pacific,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-09-15,6793,190,23,134.54,5320.09,22,Europe,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-09-15,12708,149,7,289.84,263.43,6,Middle East,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-09-15,7026,465,50,3189.83,1713.82,47,Middle East,Young Adults
+CMP_018,Email - Promo 18,Email,2025-09-15,7385,552,46,5489.04,4447.85,41,North America,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-16,20176,894,97,1888.44,16488.29,87,Europe,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-09-16,7475,199,18,123.07,3735.8,14,Latin America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-09-16,16883,569,42,2357.75,2118.97,41,Middle East,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-09-17,19688,835,75,3183.22,10279.62,74,Europe,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-09-17,17882,274,12,503.9,438.24,11,Europe,General
+CMP_008,Facebook - Promo 8,Facebook,2025-09-17,12459,179,7,336.9,209.41,5,North America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-09-17,18225,233,9,426.43,267.7,8,North America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-09-17,19758,700,62,3005.87,3293.78,53,North America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-09-17,7162,191,30,659.59,4145.89,25,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-17,11752,289,38,1570.82,359.93,37,Europe,Students
+CMP_018,Email - Promo 18,Email,2025-09-17,10145,896,87,8231.77,9774.34,72,Europe,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-09-18,17462,1062,100,4380.01,12642.12,97,Asia-Pacific,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-18,14180,312,55,1528.44,893.89,51,Europe,General
+CMP_002,Twitter - Promo 2,Twitter,2025-09-19,19408,287,18,89.48,2091.44,15,Latin America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-09-19,13640,801,17,2060.48,4305.69,15,North America,Professionals
+CMP_018,Email - Promo 18,Email,2025-09-19,12938,872,90,8025.74,5628.79,78,North America,General
+CMP_004,Email - Promo 4,Email,2025-09-20,13093,982,21,3061.17,7335.64,20,Asia-Pacific,General
+CMP_005,Instagram - Promo 5,Instagram,2025-09-20,9874,253,31,125.86,4383.23,26,Latin America,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-09-20,16387,796,132,3158.24,9421.66,127,Latin America,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-09-20,7793,441,53,1678.95,2713.21,48,Europe,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-09-20,16308,727,23,3298.91,3313.99,18,North America,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-09-20,11615,642,35,2769.46,3194.02,33,North America,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-09-21,19918,899,116,3446.4,11603.59,113,Europe,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-09-21,6420,154,27,498.19,3929.61,23,Middle East,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-09-21,9415,267,27,938.91,4007.43,23,Latin America,General
+CMP_012,Twitter - Promo 12,Twitter,2025-09-21,15892,915,104,3763.38,5303.97,89,Middle East,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-09-21,11124,678,50,2858.47,6018.02,49,North America,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-09-21,15582,349,15,2005.76,1085.1,12,Asia-Pacific,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-22,15473,906,85,2489.94,17933.21,81,Asia-Pacific,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-09-22,22238,1380,186,5616.92,24458.35,175,Latin America,General
+CMP_008,Facebook - Promo 8,Facebook,2025-09-22,11831,135,6,265.61,198.34,5,Europe,General
+CMP_009,Facebook - Promo 9,Facebook,2025-09-22,21323,903,63,4220.82,2671.44,60,Asia-Pacific,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-09-23,7416,377,19,254.14,1370.78,18,Middle East,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-09-23,12742,200,7,352.33,285.05,6,Middle East,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-09-23,11097,335,25,519.92,3907.87,22,Asia-Pacific,Young Adults
+CMP_007,Email - Promo 7,Email,2025-09-24,5911,166,11,671.25,902.81,8,Asia-Pacific,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-09-24,10891,218,24,1294.79,2334.85,21,Asia-Pacific,General
+CMP_004,Email - Promo 4,Email,2025-09-25,13149,994,16,2958.97,4330.77,13,North America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-09-25,11931,820,18,2146.2,5608.14,15,Middle East,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-09-25,8282,212,20,114.72,3436.16,16,Asia-Pacific,General
+CMP_005,Instagram - Promo 5,Instagram,2025-09-25,7897,175,19,112.76,3779.85,16,Asia-Pacific,Young Adults
+CMP_018,Email - Promo 18,Email,2025-09-25,8499,673,67,5265.72,5045.7,62,Asia-Pacific,General
+CMP_020,Instagram - Promo 20,Instagram,2025-09-25,8900,390,22,2743.92,1594.18,18,Asia-Pacific,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-09-26,21173,401,33,190.65,4369.55,29,North America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-09-26,9145,199,29,109.21,3825.84,23,Middle East,Young Adults
+CMP_007,Email - Promo 7,Email,2025-09-26,5118,131,15,620.11,1247.71,14,Asia-Pacific,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-09-26,8455,239,37,783.61,5262.89,30,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-09-26,8451,412,21,2051.78,2553.78,18,Europe,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-09-26,20112,473,18,3008.54,713.66,15,Middle East,General
+CMP_020,Instagram - Promo 20,Instagram,2025-09-26,5732,194,13,1380.01,1312.33,11,Europe,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-09-27,5730,342,13,286.3,1049.61,12,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-09-27,7073,420,21,253.35,1685.84,18,North America,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-27,10534,561,47,1395.56,9853.17,38,Latin America,General
+CMP_005,Instagram - Promo 5,Instagram,2025-09-27,10092,205,22,166.34,4624.07,21,Europe,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-27,12032,344,38,1551.63,774.64,35,Latin America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-09-27,13883,311,14,2181.49,1158.84,12,North America,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-09-28,18590,352,23,163.92,3122.31,22,North America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-09-28,9813,237,25,183.68,3858.72,23,Asia-Pacific,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-09-28,18918,748,57,2993.99,3132.79,51,Middle East,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-09-28,13846,223,26,1479.01,1914.16,21,Middle East,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-09-29,12795,658,59,1598.39,15139.95,49,Middle East,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-09-29,9168,278,53,1381.37,1094.7,49,Asia-Pacific,General
+CMP_020,Instagram - Promo 20,Instagram,2025-09-29,7129,325,33,2374.87,3795.52,30,Latin America,General
+CMP_020,Instagram - Promo 20,Instagram,2025-09-29,7920,356,21,2231.61,1963.7,20,North America,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-09-30,6837,449,25,259.27,1945.75,22,Asia-Pacific,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-10-01,17554,856,86,2401.47,14538.78,79,Latin America,Professionals
+CMP_007,Email - Promo 7,Email,2025-10-01,7509,195,18,911.49,1690.6,17,Europe,Young Adults
+CMP_007,Email - Promo 7,Email,2025-10-01,6648,214,23,1050.33,2306.66,19,North America,Young Adults
+CMP_007,Email - Promo 7,Email,2025-10-01,6123,200,23,906.32,2165.16,18,Middle East,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-10-01,23307,885,50,3469.31,2018.65,48,Middle East,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-10-01,12163,323,32,562.06,5619.0,27,North America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-10-01,16708,376,17,1556.02,1441.62,13,North America,General
+CMP_001,Twitter - Promo 1,Twitter,2025-10-02,7524,467,19,319.97,1314.62,15,North America,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-10-02,14328,639,63,1695.66,15607.0,60,Europe,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-10-02,9611,613,51,2546.76,6068.48,45,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-10-02,7000,484,41,2846.24,2160.67,39,Asia-Pacific,Retirees
+CMP_004,Email - Promo 4,Email,2025-10-03,17646,985,22,2499.08,8172.55,17,Latin America,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-10-03,24036,1029,62,4056.71,2840.8,58,Asia-Pacific,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-03,13589,290,48,1938.05,3458.88,44,North America,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-10-03,9138,397,34,2372.85,3324.25,27,Middle East,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-10-04,17681,228,20,94.17,3072.89,16,Middle East,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-10-04,15805,742,93,1718.82,22467.54,76,Europe,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-10-04,6572,139,20,62.39,4361.76,17,Asia-Pacific,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-10-04,18940,214,13,365.17,460.31,12,Europe,Young Adults
+CMP_017,Google Ads - Promo 17,Google Ads,2025-10-04,23884,413,17,2714.49,582.05,16,Asia-Pacific,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-10-04,8247,336,24,2679.95,2360.94,21,North America,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-10-05,5349,303,14,243.3,823.2,12,Asia-Pacific,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-10-05,13006,671,64,2618.15,4648.48,57,Latin America,General
+CMP_005,Instagram - Promo 5,Instagram,2025-10-06,9344,259,26,175.29,6432.0,25,Asia-Pacific,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-10-06,14051,780,82,2878.46,4929.81,79,Asia-Pacific,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-10-06,16143,1113,157,4219.46,11327.05,127,Europe,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-10-06,12213,329,45,1243.06,785.44,37,Europe,Students
+CMP_007,Email - Promo 7,Email,2025-10-07,3768,92,8,390.55,773.22,6,Europe,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-10-07,20166,285,17,525.68,615.99,15,Asia-Pacific,General
+CMP_012,Twitter - Promo 12,Twitter,2025-10-07,13381,915,137,3299.6,7590.38,111,Europe,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-07,10319,205,34,1346.61,2418.42,33,Europe,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-07,13751,281,44,1506.77,2267.03,40,Europe,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-10-09,7801,196,29,669.45,4288.42,25,Asia-Pacific,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-10-10,20032,631,51,2585.57,2820.48,43,Asia-Pacific,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-10-10,12233,326,23,524.2,4414.36,21,Middle East,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-10-10,24221,929,33,3864.27,4170.19,31,Asia-Pacific,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-10-10,9174,458,30,3172.26,1880.39,29,Latin America,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-10-10,19419,471,23,2226.89,1718.8,20,Latin America,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-10-11,24213,361,25,155.49,2541.84,21,Latin America,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-10-11,13525,684,93,2665.03,5228.2,88,Latin America,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-10-11,17716,1033,122,3875.02,7576.56,101,North America,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-10-12,8299,432,29,2433.55,1422.33,23,Middle East,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-10-13,16398,301,27,144.12,3236.53,22,Asia-Pacific,Professionals
+CMP_009,Facebook - Promo 9,Facebook,2025-10-13,20045,789,48,3537.17,2553.85,46,Middle East,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-10-13,11506,778,74,3012.2,5195.65,71,Latin America,Professionals
+CMP_004,Email - Promo 4,Email,2025-10-14,13376,785,14,1711.82,4173.59,12,North America,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-10-14,6215,167,28,539.27,3564.33,27,Middle East,Students
+CMP_014,Twitter - Promo 14,Twitter,2025-10-14,12302,746,61,3296.13,5926.0,49,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-10-14,3828,256,18,1728.19,783.61,15,Asia-Pacific,General
+CMP_007,Email - Promo 7,Email,2025-10-15,7374,225,29,955.69,2450.95,25,Latin America,General
+CMP_009,Facebook - Promo 9,Facebook,2025-10-15,20407,716,62,2777.52,3026.55,59,Middle East,Young Adults
+CMP_017,Google Ads - Promo 17,Google Ads,2025-10-15,17961,438,16,2409.98,1048.4,13,Europe,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-15,12912,237,23,1604.94,2310.27,21,Europe,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-10-16,5851,401,16,296.88,1168.17,14,North America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-10-16,10284,211,25,111.8,5077.62,23,Middle East,General
+CMP_015,Instagram - Promo 15,Instagram,2025-10-16,5804,386,42,2227.59,2609.35,41,Middle East,Retirees
+CMP_018,Email - Promo 18,Email,2025-10-16,10518,700,69,4974.09,9430.58,65,North America,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-10-17,19985,903,88,2427.36,19165.2,73,North America,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-10-17,8152,258,17,477.91,3256.42,15,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-10-17,9236,469,37,2275.04,4226.85,32,Asia-Pacific,General
+CMP_014,Twitter - Promo 14,Twitter,2025-10-17,11842,582,40,2546.72,4539.6,37,North America,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-17,14873,270,40,1855.74,3404.14,35,Europe,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-17,17740,294,35,2033.31,3215.64,34,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-10-18,11297,787,70,5292.41,6466.31,64,Europe,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-10-19,18145,1119,99,4319.88,11024.97,94,Latin America,Young Adults
+CMP_007,Email - Promo 7,Email,2025-10-19,6722,193,19,928.25,1535.83,18,Europe,General
+CMP_009,Facebook - Promo 9,Facebook,2025-10-19,15276,607,47,2687.33,2766.49,46,Asia-Pacific,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-10-19,9119,288,38,1059.73,4111.63,31,Asia-Pacific,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-10-20,5368,351,19,285.79,1730.87,18,Asia-Pacific,General
+CMP_004,Email - Promo 4,Email,2025-10-20,15368,1173,28,3001.26,8513.73,27,Asia-Pacific,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-10-20,16242,230,9,395.36,265.46,7,Middle East,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-10-20,14006,397,29,702.44,6082.01,27,Latin America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-10-20,10326,281,39,1684.88,565.16,33,Latin America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-10-20,6354,259,25,1619.41,2747.39,22,Middle East,General
+CMP_004,Email - Promo 4,Email,2025-10-21,15570,1202,23,3780.42,5262.46,21,Middle East,Retirees
+CMP_004,Email - Promo 4,Email,2025-10-21,12765,971,25,3067.95,6532.26,20,Asia-Pacific,Professionals
+CMP_010,Instagram - Promo 10,Instagram,2025-10-21,6990,239,37,750.37,5344.98,36,Asia-Pacific,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-10-21,11204,261,36,1293.5,682.25,29,Europe,Retirees
+CMP_007,Email - Promo 7,Email,2025-10-22,6224,163,19,688.02,1310.39,15,Asia-Pacific,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-10-22,10111,334,9,1557.5,1028.49,8,North America,Students
+CMP_018,Email - Promo 18,Email,2025-10-23,3772,343,35,3368.66,2758.33,33,Europe,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-23,17537,351,56,2009.84,4047.87,45,Latin America,Professionals
+CMP_004,Email - Promo 4,Email,2025-10-24,14790,1015,26,3059.34,7374.82,25,North America,Students
+CMP_007,Email - Promo 7,Email,2025-10-24,5089,150,17,678.22,1674.71,13,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-10-24,10093,209,40,994.41,443.07,36,Europe,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-10-24,19102,342,11,2031.01,922.62,10,Middle East,Young Adults
+CMP_018,Email - Promo 18,Email,2025-10-24,7957,510,45,3102.98,4895.65,40,Asia-Pacific,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-24,16351,259,38,1735.82,1899.23,36,Asia-Pacific,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-10-25,7221,486,24,449.73,2265.03,22,Latin America,Young Adults
+CMP_004,Email - Promo 4,Email,2025-10-25,14350,782,16,2429.84,5506.22,13,Asia-Pacific,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-10-25,7975,228,24,180.62,4524.01,21,Middle East,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-10-25,11606,273,50,1191.75,671.06,44,Europe,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-10-26,16195,703,94,1446.0,18875.12,81,North America,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-10-26,12973,276,40,176.49,8763.09,39,Latin America,Young Adults
+CMP_007,Email - Promo 7,Email,2025-10-26,7288,229,19,1072.38,1937.64,18,Asia-Pacific,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-10-26,9536,242,45,1344.91,810.69,40,Latin America,General
+CMP_018,Email - Promo 18,Email,2025-10-26,11386,932,67,6531.69,7522.43,59,Asia-Pacific,General
+CMP_015,Instagram - Promo 15,Instagram,2025-10-27,7862,478,30,2336.67,1190.71,28,Middle East,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-10-27,7261,276,20,2315.33,2208.31,16,Europe,General
+CMP_002,Twitter - Promo 2,Twitter,2025-10-28,19096,332,31,153.5,3979.41,28,Europe,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-10-28,20561,278,20,110.44,3001.14,16,North America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-10-28,11174,240,25,171.26,5063.92,22,Middle East,Young Adults
+CMP_007,Email - Promo 7,Email,2025-10-28,4188,149,13,676.74,1260.85,11,Europe,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-10-28,20898,297,13,575.94,499.65,11,Europe,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-28,16303,302,47,2188.01,2990.03,42,North America,Students
+CMP_020,Instagram - Promo 20,Instagram,2025-10-28,5527,224,17,1465.17,1459.84,14,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2025-10-29,12107,861,16,1877.53,4725.76,13,Latin America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-10-29,8046,236,24,143.97,4187.75,20,Latin America,Young Adults
+CMP_017,Google Ads - Promo 17,Google Ads,2025-10-29,15342,262,7,1573.22,458.02,6,Asia-Pacific,Professionals
+CMP_007,Email - Promo 7,Email,2025-10-30,8132,210,20,899.16,1461.04,16,Europe,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-10-31,11665,332,25,516.24,4643.04,21,Latin America,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-10-31,11839,201,29,1328.93,1655.85,28,Asia-Pacific,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-11-01,12394,538,46,2494.75,2476.72,39,North America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-11-01,8025,224,31,735.24,3652.82,27,Middle East,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-11-01,12562,349,31,642.06,5979.44,25,North America,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-01,9558,238,27,1132.21,504.37,23,Middle East,Professionals
+CMP_018,Email - Promo 18,Email,2025-11-01,12552,1108,107,9126.79,10614.23,99,North America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-11-01,7979,585,57,5420.84,3850.11,52,Europe,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-11-02,7039,517,31,339.15,2865.44,28,Latin America,Students
+CMP_007,Email - Promo 7,Email,2025-11-02,6552,183,13,883.82,1108.05,11,Middle East,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-11-02,8473,207,36,637.36,4134.78,35,North America,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-02,11491,306,47,1477.58,603.61,40,Middle East,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-11-03,20803,334,27,114.18,3698.89,26,Asia-Pacific,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-11-03,11190,547,59,1164.55,15908.03,55,Asia-Pacific,General
+CMP_004,Email - Promo 4,Email,2025-11-03,14041,869,16,2333.4,4846.25,15,Europe,General
+CMP_006,Instagram - Promo 6,Instagram,2025-11-03,18183,870,138,3002.74,14087.23,137,Asia-Pacific,Professionals
+CMP_007,Email - Promo 7,Email,2025-11-03,3448,87,9,380.48,811.16,8,North America,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-11-03,16121,208,10,369.48,288.82,9,Middle East,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-11-03,13177,148,6,282.04,230.24,4,Latin America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-11-03,11498,297,29,1064.04,3793.56,23,Middle East,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-11-03,8810,568,40,2427.31,3453.8,37,Middle East,Young Adults
+CMP_019,Google Ads - Promo 19,Google Ads,2025-11-03,18408,305,32,2391.69,1512.52,27,Asia-Pacific,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-11-03,4942,197,11,1320.15,1087.12,9,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-11-05,7256,428,16,318.57,1366.69,15,North America,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-11-05,10238,266,27,185.58,4825.4,23,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-05,21125,798,24,3895.08,3443.39,22,Europe,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-11-06,13781,191,13,68.86,1740.74,12,Europe,General
+CMP_002,Twitter - Promo 2,Twitter,2025-11-06,18770,323,20,116.61,2167.68,16,Latin America,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-06,13621,316,52,1269.59,499.95,42,Europe,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-11-07,8550,485,25,292.19,2416.48,20,North America,Professionals
+CMP_005,Instagram - Promo 5,Instagram,2025-11-07,10994,293,38,191.54,6797.39,37,Latin America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-11-07,11125,353,48,1180.61,6158.14,44,North America,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-07,21156,703,16,3057.33,2249.75,15,Asia-Pacific,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-11-07,12771,290,10,1214.07,749.5,9,Middle East,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-11-07,15163,266,39,1785.99,4345.81,37,Asia-Pacific,Retirees
+CMP_014,Twitter - Promo 14,Twitter,2025-11-08,11585,620,40,2743.79,3509.81,38,Europe,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-11-09,17044,738,50,3012.58,2939.18,49,Latin America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-11-09,5654,388,33,2462.55,2199.3,29,Europe,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-11-10,6762,198,24,111.79,3929.39,21,Asia-Pacific,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-11-10,14209,358,33,557.33,6705.46,29,North America,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-10,12002,411,14,1982.71,1990.19,12,Europe,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-10,6446,142,20,608.89,316.65,19,Asia-Pacific,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-10,9869,234,24,921.98,298.79,19,North America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-11-10,18272,385,11,1703.56,1037.89,9,Europe,Retirees
+CMP_019,Google Ads - Promo 19,Google Ads,2025-11-10,10003,195,26,1141.99,2233.15,22,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-11-11,19116,842,94,1684.79,23937.84,80,Asia-Pacific,Professionals
+CMP_004,Email - Promo 4,Email,2025-11-11,10675,606,12,1635.35,3903.1,9,Middle East,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-11-11,11145,288,31,213.36,5795.52,30,Asia-Pacific,Professionals
+CMP_007,Email - Promo 7,Email,2025-11-11,7048,224,22,946.4,2056.86,19,Asia-Pacific,General
+CMP_010,Instagram - Promo 10,Instagram,2025-11-11,7981,212,25,771.46,2793.83,21,Middle East,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-11-11,4112,173,14,1668.2,1368.18,11,Middle East,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-11-12,6542,464,22,330.22,1971.53,20,Europe,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-11-12,29702,389,21,170.05,2757.31,20,Asia-Pacific,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-11-12,16047,902,109,2170.92,24556.12,107,North America,Young Adults
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-12,17944,600,19,2664.03,2703.17,17,Middle East,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-11-12,3587,207,15,1522.88,810.42,14,Asia-Pacific,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-11-12,13828,265,42,2063.1,2222.49,40,Europe,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-11-13,6097,394,20,278.04,1345.5,18,Europe,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-11-13,18505,884,141,3571.88,17522.73,132,Europe,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-13,13251,544,11,2492.8,1215.73,10,North America,General
+CMP_014,Twitter - Promo 14,Twitter,2025-11-13,11972,773,56,3669.01,5158.93,48,North America,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-11-13,9882,663,59,4882.12,2102.22,48,Latin America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-11-13,7763,465,34,2932.02,1139.19,33,Latin America,General
+CMP_008,Facebook - Promo 8,Facebook,2025-11-14,12441,140,6,237.28,217.89,5,North America,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-11-14,15492,195,8,374.22,274.37,7,Latin America,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-11-14,6407,442,32,2803.16,1858.3,26,Middle East,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-11-14,7083,303,23,2400.1,1546.43,20,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-11-15,4442,270,16,207.86,1394.97,12,Asia-Pacific,Young Adults
+CMP_001,Twitter - Promo 1,Twitter,2025-11-15,3213,238,11,129.38,1227.42,9,Middle East,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-11-15,8615,251,31,137.97,6406.3,25,Middle East,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-11-15,12185,668,102,2712.32,6891.07,99,Asia-Pacific,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-11-16,15060,682,94,2798.53,9064.0,86,Middle East,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-11-16,17416,691,50,2996.42,2469.36,42,Middle East,General
+CMP_015,Instagram - Promo 15,Instagram,2025-11-16,7041,519,57,3564.57,3294.53,47,Asia-Pacific,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-11-17,5940,308,14,234.36,1130.73,12,Asia-Pacific,Retirees
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-11-17,15833,900,120,2221.29,24517.14,114,North America,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-11-17,12832,669,107,2754.92,13893.09,99,Latin America,General
+CMP_009,Facebook - Promo 9,Facebook,2025-11-17,18016,762,72,3326.49,3659.97,69,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-11-17,11991,524,50,2083.94,2314.92,49,Middle East,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-17,14849,581,15,2728.88,2015.65,14,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-17,14222,543,13,2733.83,1611.15,12,North America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-11-18,10109,234,26,165.27,3855.24,24,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-11-18,20785,746,63,3414.34,3123.89,51,Latin America,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-11-18,20546,608,34,2609.22,1934.44,27,Middle East,Young Adults
+CMP_004,Email - Promo 4,Email,2025-11-19,14526,807,18,2363.48,5298.99,14,Asia-Pacific,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-20,17654,801,16,3791.31,1748.62,15,North America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-11-20,7264,471,31,2994.42,1318.92,30,Asia-Pacific,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-11-20,4907,172,15,1434.38,1004.26,13,Latin America,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-11-21,18935,260,18,133.56,1845.17,16,North America,Professionals
+CMP_007,Email - Promo 7,Email,2025-11-21,5469,181,23,744.02,2191.5,21,Asia-Pacific,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-11-21,20123,755,64,3218.73,3559.44,53,Europe,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-11-21,12280,290,16,465.32,3112.48,14,Latin America,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-11-22,12930,675,58,1279.71,12489.32,46,Latin America,Students
+CMP_004,Email - Promo 4,Email,2025-11-22,12073,905,16,1936.32,4540.41,15,Middle East,Students
+CMP_004,Email - Promo 4,Email,2025-11-22,9903,574,9,1440.26,3460.84,8,North America,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-11-22,13842,822,118,2893.83,14352.62,116,Middle East,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-11-22,21749,935,26,4395.92,2873.59,21,North America,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-11-22,8466,467,31,2078.28,2748.91,25,Latin America,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-11-22,7009,487,41,2934.58,1705.18,39,Asia-Pacific,Young Adults
+CMP_020,Instagram - Promo 20,Instagram,2025-11-22,4892,175,9,1506.41,855.69,7,Asia-Pacific,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-11-23,9865,233,27,123.31,3735.99,22,Middle East,Students
+CMP_007,Email - Promo 7,Email,2025-11-23,7057,247,26,1106.35,2353.91,23,Latin America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-11-23,9097,271,41,895.67,5973.6,40,Europe,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-23,13547,347,66,1759.77,1318.75,65,Middle East,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-11-24,12203,593,54,2842.92,6176.02,53,Latin America,Students
+CMP_015,Instagram - Promo 15,Instagram,2025-11-24,4847,245,25,1217.75,1456.01,23,Middle East,Young Adults
+CMP_018,Email - Promo 18,Email,2025-11-24,8169,721,49,5070.56,4924.48,47,Middle East,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-11-24,5543,225,13,1558.89,849.22,10,Latin America,Retirees
+CMP_001,Twitter - Promo 1,Twitter,2025-11-25,4908,334,18,288.44,1519.27,14,Middle East,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-11-25,13889,249,14,84.7,1428.56,12,Europe,Retirees
+CMP_005,Instagram - Promo 5,Instagram,2025-11-25,11319,258,26,173.88,5134.27,25,North America,Students
+CMP_007,Email - Promo 7,Email,2025-11-25,6188,154,14,758.14,1050.84,13,Middle East,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-11-25,10280,638,99,2460.89,6975.82,79,Middle East,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-11-25,10297,226,39,962.97,941.17,36,Latin America,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-11-25,16616,370,14,1881.12,645.47,11,North America,Retirees
+CMP_018,Email - Promo 18,Email,2025-11-25,10993,908,61,6748.16,3837.54,50,Europe,Young Adults
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-11-26,19069,1094,141,2637.72,37153.38,131,Asia-Pacific,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-11-26,9076,396,32,3326.61,2852.83,26,North America,Professionals
+CMP_006,Instagram - Promo 6,Instagram,2025-11-27,25928,1404,148,5153.5,20342.68,125,Latin America,Retirees
+CMP_012,Twitter - Promo 12,Twitter,2025-11-27,11816,764,76,2886.83,5190.49,75,Europe,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-11-27,12617,230,25,1429.18,1269.39,21,Middle East,General
+CMP_006,Instagram - Promo 6,Instagram,2025-11-28,17515,937,136,3289.01,16098.09,117,Middle East,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-11-28,16225,216,11,356.89,314.36,9,Europe,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-11-28,8438,247,44,870.92,5453.57,37,Europe,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-11-28,9652,480,39,2145.74,3287.46,32,Asia-Pacific,Young Adults
+CMP_005,Instagram - Promo 5,Instagram,2025-11-29,7728,173,14,100.41,2617.38,12,Asia-Pacific,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-11-29,9137,674,60,4416.34,3076.34,51,Europe,Young Adults
+CMP_002,Twitter - Promo 2,Twitter,2025-11-30,11614,171,14,71.93,2324.01,13,North America,Retirees
+CMP_007,Email - Promo 7,Email,2025-11-30,6141,204,21,947.47,1535.09,20,North America,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-11-30,17714,312,49,1616.81,2399.27,39,Europe,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-11-30,8447,334,20,2714.85,1320.46,18,Middle East,Students
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-12-01,20525,973,101,2667.88,19376.95,93,North America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-12-01,19977,867,80,3740.07,4124.48,79,North America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-01,15179,589,20,2563.09,2521.61,17,Asia-Pacific,General
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-01,11483,279,30,1345.56,834.82,28,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-01,9765,275,35,1098.23,612.82,31,Middle East,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-12-02,13834,189,13,102.32,1849.95,12,Asia-Pacific,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-12-02,8274,192,23,144.23,4552.66,18,Middle East,Professionals
+CMP_019,Google Ads - Promo 19,Google Ads,2025-12-02,20282,372,63,2755.82,4236.78,53,Europe,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-03,19044,761,22,3191.22,2920.09,18,Latin America,General
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-03,12299,511,14,2439.1,1836.82,13,Europe,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-03,11205,240,41,907.44,1157.34,35,Asia-Pacific,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-03,11858,250,40,1057.55,879.11,35,Latin America,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-03,18878,402,18,1968.0,1137.96,17,Latin America,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-12-04,7108,353,22,315.18,2286.36,21,Latin America,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-12-04,12856,170,9,75.29,1327.07,7,Middle East,General
+CMP_009,Facebook - Promo 9,Facebook,2025-12-04,13827,574,53,2399.86,3029.79,44,Asia-Pacific,Students
+CMP_009,Facebook - Promo 9,Facebook,2025-12-04,17107,521,32,2004.72,1808.34,31,North America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-12-04,7838,220,28,678.06,4225.07,24,Middle East,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-12-04,9253,227,31,746.46,4817.59,30,Middle East,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-12-04,7650,485,34,3087.3,1111.34,31,North America,Students
+CMP_002,Twitter - Promo 2,Twitter,2025-12-05,17100,279,18,123.66,3024.12,16,Asia-Pacific,Young Adults
+CMP_004,Email - Promo 4,Email,2025-12-05,10726,803,18,2475.84,4435.11,16,Europe,Retirees
+CMP_007,Email - Promo 7,Email,2025-12-05,6845,212,23,918.5,2251.5,21,Latin America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-12-05,9253,233,23,743.56,2483.17,19,Middle East,Retirees
+CMP_020,Instagram - Promo 20,Instagram,2025-12-05,5660,255,20,1806.61,2450.66,18,Asia-Pacific,Retirees
+CMP_004,Email - Promo 4,Email,2025-12-06,13396,936,21,2221.94,6860.45,20,Middle East,Students
+CMP_008,Facebook - Promo 8,Facebook,2025-12-06,18840,216,13,401.79,428.5,11,Latin America,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-12-06,14845,438,42,1918.7,1970.9,35,Asia-Pacific,Young Adults
+CMP_011,Facebook - Promo 11,Facebook,2025-12-06,16794,433,44,736.5,8361.04,39,Latin America,General
+CMP_004,Email - Promo 4,Email,2025-12-07,18122,1272,26,4320.0,7422.25,22,Europe,General
+CMP_006,Instagram - Promo 6,Instagram,2025-12-07,22342,1389,128,5283.08,17828.02,115,North America,General
+CMP_008,Facebook - Promo 8,Facebook,2025-12-07,13726,172,9,297.25,247.63,7,Middle East,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-07,9520,285,31,1500.86,406.78,27,North America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-07,13524,330,15,1563.73,1240.11,14,Middle East,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-07,18929,396,14,2054.2,787.52,12,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-12-07,10846,928,96,8791.35,8561.77,83,Europe,Professionals
+CMP_003,LinkedIn - Promo 3,LinkedIn,2025-12-08,13987,798,64,1402.98,10551.79,60,Asia-Pacific,General
+CMP_008,Facebook - Promo 8,Facebook,2025-12-08,16345,213,12,353.4,430.68,11,Latin America,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-12-08,21528,238,12,429.68,428.58,10,Asia-Pacific,Professionals
+CMP_011,Facebook - Promo 11,Facebook,2025-12-08,9513,241,20,420.29,3941.25,17,Latin America,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-12-08,4313,278,31,2158.21,1643.62,28,Middle East,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-12-08,19295,379,64,2478.91,3175.83,52,Europe,General
+CMP_012,Twitter - Promo 12,Twitter,2025-12-09,8656,518,67,2165.84,3429.81,54,Latin America,Retirees
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-09,10374,233,37,1157.6,792.45,32,Middle East,Young Adults
+CMP_008,Facebook - Promo 8,Facebook,2025-12-10,16755,228,11,401.6,317.57,9,Asia-Pacific,Retirees
+CMP_002,Twitter - Promo 2,Twitter,2025-12-11,16656,257,17,109.49,1868.79,14,North America,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-12-11,23966,1297,178,4724.22,17562.84,150,Asia-Pacific,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-11,19692,471,13,2541.77,628.07,12,North America,Students
+CMP_019,Google Ads - Promo 19,Google Ads,2025-12-11,13493,211,29,1635.7,3460.43,23,Middle East,General
+CMP_019,Google Ads - Promo 19,Google Ads,2025-12-11,21926,340,53,2740.17,3179.36,51,Europe,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-12-12,5489,351,22,222.77,1672.9,20,North America,Students
+CMP_012,Twitter - Promo 12,Twitter,2025-12-13,10516,636,94,2683.02,5155.01,79,Europe,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-13,23401,915,24,4498.82,2590.53,20,Europe,General
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-13,21522,485,19,3151.95,1305.33,17,Europe,Professionals
+CMP_014,Twitter - Promo 14,Twitter,2025-12-14,10679,624,39,2607.7,3824.99,31,Europe,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-12-14,13208,618,56,2669.6,6848.95,45,Europe,Young Adults
+CMP_004,Email - Promo 4,Email,2025-12-15,12251,966,16,1924.85,3900.17,12,North America,Professionals
+CMP_015,Instagram - Promo 15,Instagram,2025-12-15,8112,577,51,3733.55,2144.51,44,Latin America,General
+CMP_018,Email - Promo 18,Email,2025-12-15,9344,698,77,6693.65,6978.3,63,Europe,Young Adults
+CMP_006,Instagram - Promo 6,Instagram,2025-12-16,7621,348,35,1403.03,3844.12,31,Middle East,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-12-16,11708,381,60,1248.23,6323.41,57,Asia-Pacific,Professionals
+CMP_012,Twitter - Promo 12,Twitter,2025-12-16,10407,716,78,2827.41,4695.99,63,Asia-Pacific,Students
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-16,20147,722,25,3178.02,2623.32,22,Latin America,Professionals
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-16,23923,577,25,3292.51,2390.81,22,North America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-12-17,10414,820,75,5586.51,6371.98,60,Middle East,General
+CMP_008,Facebook - Promo 8,Facebook,2025-12-18,13008,199,10,359.17,390.45,9,Middle East,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-12-18,16297,247,12,416.98,340.54,11,Europe,General
+CMP_010,Instagram - Promo 10,Instagram,2025-12-18,6892,235,36,876.39,5029.92,32,Asia-Pacific,Professionals
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-18,15149,500,10,2120.99,1151.24,9,North America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-19,22673,787,23,3536.7,2964.96,18,Latin America,Professionals
+CMP_002,Twitter - Promo 2,Twitter,2025-12-20,21159,335,27,149.83,3087.78,24,Middle East,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-12-20,10679,164,6,285.47,216.51,4,Latin America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-12-20,9537,259,30,965.72,3819.27,26,North America,Students
+CMP_010,Instagram - Promo 10,Instagram,2025-12-20,7842,191,22,666.29,2756.31,18,North America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-12-21,16998,235,9,443.4,288.42,8,Europe,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-12-21,10468,237,21,417.3,4242.82,17,Europe,Young Adults
+CMP_012,Twitter - Promo 12,Twitter,2025-12-21,12161,751,95,2793.96,6801.16,89,Europe,Young Adults
+CMP_014,Twitter - Promo 14,Twitter,2025-12-21,11218,542,28,2640.22,2680.33,24,Asia-Pacific,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-21,8088,239,36,1314.81,588.91,34,Latin America,Students
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-21,13271,288,37,1335.53,674.88,31,Europe,Professionals
+CMP_004,Email - Promo 4,Email,2025-12-22,14355,946,22,2646.02,8404.28,19,Europe,Retirees
+CMP_009,Facebook - Promo 9,Facebook,2025-12-22,14660,633,44,2424.55,2370.06,42,Asia-Pacific,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-12-22,9174,292,37,953.69,4537.81,35,Latin America,General
+CMP_012,Twitter - Promo 12,Twitter,2025-12-22,14435,798,109,3233.28,6638.34,96,Europe,General
+CMP_014,Twitter - Promo 14,Twitter,2025-12-22,10422,620,41,3010.68,3513.22,33,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-22,20839,363,14,1742.87,563.29,12,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-12-22,8019,554,42,4960.69,4974.8,40,Europe,General
+CMP_018,Email - Promo 18,Email,2025-12-22,10910,926,61,7691.58,5698.44,55,Europe,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-12-22,5074,217,17,1277.75,886.2,14,Asia-Pacific,Students
+CMP_004,Email - Promo 4,Email,2025-12-23,14512,1057,24,2762.34,6500.01,19,Europe,Retirees
+CMP_011,Facebook - Promo 11,Facebook,2025-12-23,10571,246,18,443.3,3827.54,16,Latin America,Retirees
+CMP_013,Google Ads - Promo 13,Google Ads,2025-12-23,24207,1000,22,4975.47,2784.32,21,Middle East,Professionals
+CMP_001,Twitter - Promo 1,Twitter,2025-12-24,7326,472,30,271.38,2693.09,25,Europe,Students
+CMP_006,Instagram - Promo 6,Instagram,2025-12-24,18658,933,147,3346.49,15578.64,143,Middle East,Young Adults
+CMP_015,Instagram - Promo 15,Instagram,2025-12-24,8488,585,64,3943.34,3491.27,58,Asia-Pacific,Retirees
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-24,21709,389,11,2395.34,844.72,8,Europe,General
+CMP_020,Instagram - Promo 20,Instagram,2025-12-24,6488,292,19,1865.65,1263.89,16,Latin America,Professionals
+CMP_004,Email - Promo 4,Email,2025-12-25,16013,1030,19,3523.07,6700.41,16,Latin America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-12-25,15017,226,12,390.94,480.37,11,North America,Professionals
+CMP_016,LinkedIn - Promo 16,LinkedIn,2025-12-25,13427,370,58,1841.08,550.37,52,Europe,Professionals
+CMP_020,Instagram - Promo 20,Instagram,2025-12-25,9547,438,35,2764.06,2457.49,33,Middle East,Students
+CMP_001,Twitter - Promo 1,Twitter,2025-12-26,8672,443,25,296.76,1669.16,21,Middle East,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-12-26,15783,947,143,3384.33,16397.93,137,North America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2025-12-26,16733,254,8,500.27,318.59,7,North America,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-12-26,9465,291,51,1051.33,7038.11,47,Latin America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-12-26,8797,770,54,6826.13,2537.67,46,Latin America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-12-27,12572,334,43,1239.97,5069.51,41,Europe,Retirees
+CMP_010,Instagram - Promo 10,Instagram,2025-12-27,11416,390,49,1419.67,6943.72,41,Latin America,Young Adults
+CMP_018,Email - Promo 18,Email,2025-12-27,11398,1084,113,6811.36,13588.6,105,Asia-Pacific,General
+CMP_018,Email - Promo 18,Email,2025-12-27,10649,868,84,6433.86,7647.66,73,Europe,General
+CMP_005,Instagram - Promo 5,Instagram,2025-12-28,12178,254,36,170.61,6968.81,31,Europe,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-12-29,16377,173,6,319.61,234.88,4,Asia-Pacific,Professionals
+CMP_008,Facebook - Promo 8,Facebook,2025-12-29,14049,166,9,298.49,249.81,8,Middle East,General
+CMP_010,Instagram - Promo 10,Instagram,2025-12-29,8981,300,44,1120.73,4869.42,40,Europe,Retirees
+CMP_015,Instagram - Promo 15,Instagram,2025-12-29,6548,354,32,2213.43,2213.42,29,Europe,Retirees
+CMP_006,Instagram - Promo 6,Instagram,2025-12-30,18185,845,80,3515.5,9691.0,73,Latin America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-12-30,15282,425,35,793.3,6985.09,32,North America,Students
+CMP_011,Facebook - Promo 11,Facebook,2025-12-30,13135,344,27,558.93,5945.6,24,North America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2025-12-30,18512,413,18,2954.64,645.22,17,Latin America,Students
+CMP_005,Instagram - Promo 5,Instagram,2025-12-31,10246,210,21,156.12,4559.6,18,Asia-Pacific,Young Adults
+CMP_009,Facebook - Promo 9,Facebook,2025-12-31,20337,852,86,3825.32,3640.82,71,North America,Young Adults
+CMP_010,Instagram - Promo 10,Instagram,2025-12-31,10969,322,55,1135.09,6291.55,52,North America,Students
+CMP_001,Twitter - Promo 1,Twitter,2026-01-01,5580,379,16,294.92,1678.7,15,Latin America,General
+CMP_003,LinkedIn - Promo 3,LinkedIn,2026-01-01,15395,669,82,1716.95,15775.2,80,Europe,Retirees
+CMP_004,Email - Promo 4,Email,2026-01-01,13528,999,20,2834.06,6709.46,16,Europe,Retirees
+CMP_007,Email - Promo 7,Email,2026-01-01,5892,215,23,952.24,1660.47,20,Asia-Pacific,Retirees
+CMP_007,Email - Promo 7,Email,2026-01-01,6943,231,20,952.07,1588.11,16,Latin America,Retirees
+CMP_008,Facebook - Promo 8,Facebook,2026-01-01,12212,146,6,278.07,197.07,4,North America,Young Adults
+CMP_016,LinkedIn - Promo 16,LinkedIn,2026-01-01,9411,205,36,732.64,603.24,33,Latin America,Students
+CMP_017,Google Ads - Promo 17,Google Ads,2026-01-01,20471,455,21,2733.88,1182.9,18,Europe,General
+CMP_017,Google Ads - Promo 17,Google Ads,2026-01-01,22869,405,17,2506.29,1024.07,16,Europe,Professionals
